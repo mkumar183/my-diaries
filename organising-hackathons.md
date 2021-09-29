@@ -1,0 +1,11 @@
+- Event Announcement / Kickooff 
+- Registration Dates and Registrations 
+- Teams formation
+- T-shirts distribution to teams 
+- Theme and ideas around which ideas to be built  
+- Actual Event Dates
+- Budgets (India and US)
+- Registration Cancellations: Teams to handle replacement/ T-shirt   
+- During Events lunches and dinners 
+- Presentations 
+- Judges and Rewards
