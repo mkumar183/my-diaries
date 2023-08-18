@@ -1,7 +1,23 @@
+**Aug-17th**:
+- https://powerschoolgroup.atlassian.net/browse/UIHN-48829 Alabama Build issues. Data Ninja
+- Review merge request: https://git.versifit.com/docker-ci/hoonuit_delivery_platform/-/merge_requests/1349
+- UI	https://powerschoolgroup.atlassian.net/wiki/x/GgC5LA8: 
+  HNE	https://powerschoolgroup.atlassian.net/wiki/x/oAL3LA8
+  HNE	https://powerschoolgroup.atlassian.net/wiki/x/lQP3LA8
+  HNE	https://powerschoolgroup.atlassian.net/wiki/x/wwL3LA8
+  HNE	https://powerschoolgroup.atlassian.net/wiki/x/tAL3LA8
+  HNE	https://powerschoolgroup.atlassian.net/wiki/x/VgL3LA8
+  HNE	https://powerschoolgroup.atlassian.net/wiki/x/QgH3LA8
+  HNE	https://powerschoolgroup.atlassian.net/wiki/x/ygH3LA8
+  HNE	https://powerschoolgroup.atlassian.net/wiki/x/JQL3LA8 
+- Review these checklists what we need to do to keep these instructions minimal and put these in one place in GIT
+- 
+
+
 Aug-16th: 
 1. Devendra Visit Action Items. 
-2. GitHub Pilot License
-3. CI vs UIHN Entitlement Requests (snowflake account)
+2. GitHub Pilot License 
+3. CI vs UIHN Entitlement Requests (snowflake account) 
 4. SSO Plugin installation instructions where are these ? 
 5. Review spike comment by Vaidehi on Course being null 
 6. Find ticket where commas instead of semicolons are present in alabama: https://powerschoolgroup.atlassian.net/browse/UIHN-47741
