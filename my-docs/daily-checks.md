@@ -1,3 +1,42 @@
+Sept-06
+- Complete review of emails
+- Review all incoming and outgoing tickets (for outgoing create a SQL)
+- All hands deck complete : https://powerschoolgroup-my.sharepoint.com/:p:/g/personal/sujit_maharana_powerschool_com/EYlRXNVDEsBAv68OJHlct0wBDQY87eFbSe3JB4yepzxMeg?e=4%3AYKyGDv&fromShare=true&at=9&CID=c5dbf066-5fd4-df5b-747e-ed3a48c05566
+- Review Retro Boards for outcome 
+- 1-1s with Gaurav and Azaz see that its scheduled 
+- Add a ticket to improve run book for migrating tenants based on comments yesterday (Review tasks sheet)
+- Can we configura snowstorm board differently ? to reflect statuses 
+- 
+- 
+- what can we do to ensure ETLs are not affected tomorrow 
+- update production checklist in case any tenant is updated with a custom tag to remove part of release
+- work with shivasheesh on setting up a status excel for snowflake 
+- In instructions make it clear as how to find DW warehouse vs Portal Database and which one to migrate
+- Review production checklist 23.9 
+
+Pinnacle Stand up Questions: 
+- How do we take up the Neon updates 
+- Dashboard mismatch issues:  
+
+
+**Aug-29**:
+1. Check the SKUs for Talent Analytics (Single Tenant and otherwise) and get this documented accordingly. Create entitlement Run Books and clearly demarkate these with SKUs. Update this part of Team Forecasting or Backlog or Core Team page.  
+2. Review runbook for new K8S Cluster and see if step of getting IP Range and its process is properly documented
+3. PREFS Fix rollout: RCA to be conducted. How to avoid such issues in future ?
+4. Remove emails coming from data dog 
+5. https://powerschoolgroup.atlassian.net/browse/UIHN-49008 : Is QA Trained to troubleshoot such issues. Can we avoid these issues coming to dev and be taken part of sprint work
+6. Improve jira view for ready for development to move up 
+7. Vedantham: 1.0 Tickets 
+
+Interstaller:
+https://powerschoolgroup.atlassian.net/browse/UIHN-44740 : buildcontrolyear
+
+
+Done 
+5. Change Rohit Srivastava Manager change request - Done
+6. Submitted expense report 
+
+
 **Aug-17th**:
 - https://powerschoolgroup.atlassian.net/browse/UIHN-48829 Alabama Build issues. Data Ninja
 - Review merge request: https://git.versifit.com/docker-ci/hoonuit_delivery_platform/-/merge_requests/1349
