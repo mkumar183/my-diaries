@@ -1,18 +1,25 @@
-Sept-06
-- Complete review of emails
-- Review all incoming and outgoing tickets (for outgoing create a SQL)
-- All hands deck complete : https://powerschoolgroup-my.sharepoint.com/:p:/g/personal/sujit_maharana_powerschool_com/EYlRXNVDEsBAv68OJHlct0wBDQY87eFbSe3JB4yepzxMeg?e=4%3AYKyGDv&fromShare=true&at=9&CID=c5dbf066-5fd4-df5b-747e-ed3a48c05566
+Sept-08
+<font color="white">
 - Review Retro Boards for outcome 
 - 1-1s with Gaurav and Azaz see that its scheduled 
 - Add a ticket to improve run book for migrating tenants based on comments yesterday (Review tasks sheet)
+- Review production checklist 23.9 
+- meet yasmeen, farheen, suhas and rohit in your next visit
+</font>
+
+
+Sept-06
+<font color="green">
+- Complete review of emails
+- Review all incoming and outgoing tickets (for outgoing create a SQL)
+- All hands deck complete  https://powerschoolgroup-my.sharepoint.com/:p:/g/personal/sujit_maharana_powerschool_com/EYlRXNVDEsBAv68OJHlct0wBDQY87eFbSe3JB4yepzxMeg?e=4%3AYKyGDv&fromShare=true&at=9&CID=c5dbf066-5fd4-df5b-747e-ed3a48c05566
 - Can we configura snowstorm board differently ? to reflect statuses 
-- 
-- 
 - what can we do to ensure ETLs are not affected tomorrow 
-- update production checklist in case any tenant is updated with a custom tag to remove part of release
 - work with shivasheesh on setting up a status excel for snowflake 
 - In instructions make it clear as how to find DW warehouse vs Portal Database and which one to migrate
-- Review production checklist 23.9 
+
+</font>
+
 
 Pinnacle Stand up Questions: 
 - How do we take up the Neon updates 
