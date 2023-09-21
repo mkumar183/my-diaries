@@ -1,11 +1,39 @@
+Sept-11
+<font color="red">
+- snowflake read only access 
+</font>
+
+- Review Retro Boards for outcome 
+- Add a ticket to improve run book for migrating tenants based on comments yesterday (Review tasks sheet)
+- Review production checklist 23.9 
+</font>
+
+
 Sept-08
-<font color="white">
+<font color="red">
+- snowflake read only access 
+</font>
+
 - Review Retro Boards for outcome 
 - 1-1s with Gaurav and Azaz see that its scheduled 
 - Add a ticket to improve run book for migrating tenants based on comments yesterday (Review tasks sheet)
 - Review production checklist 23.9 
 - meet yasmeen, farheen, suhas and rohit in your next visit
 </font>
+
+
+
+Snowflake migration meeting: 
+- cea: all working fine 
+- sisgold: internal tenant 
+- usd294: some nightly issue: yogesh is looking at it: 
+- montedelsol: white space in district code: Vaidehi looking into it: 
+- juniperhills: ETL is waiting 
+- clarksdale: ETL is in progress
+- fordham: AWS ETL has failed: yogesh looking at it: school year date summary task 
+- goethecharter: ETL still failing. DTBL school date. Due to ETL Customization. shivasheesh looking at it. 
+- boystown: spl character in connector to be fixed: another 3-4 hours
+
 
 
 Sept-06
