@@ -1,13 +1,14 @@
 #### Top Strategic Priorities: 
-1. Snowflake Migration
-2. ETL Build stabilization
-3. Infrastructure stability
-4. Increase release frequently
-5. Establish hotfix and release process: More frequent and easy 
-6. Formalize Onboarding guides and production checklists 
-7. Target components that are having high incoming in production where support can solve.
-8. Skill metric for Team 
-9. Review and Analyze Internal Regression Defects 
+1. Snowflake Migration: Shivasheesh and Shemeem 
+2. ETL Build stabilization: Shemeem 
+3. Infrastructure stability: Shemeem 
+4. Increase release frequently: Shemeem 
+5. Establish hotfix and release process: More frequent and easy: Vedantham 
+6. Formalize Onboarding guides and production checklists: Shemeem 
+7. Target components that are having high incoming in production where support can solve: Vaidehi 
+8. Skill metric for Team: Vedantham 
+9. Review and Analyze Internal Regression Defects: Nitin 
+
 
 #### Tactical items 
 8. Established detailed onboarding guide 

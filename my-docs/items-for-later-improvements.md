@@ -13,12 +13,32 @@ Production Checklist
 - review release process and add this step there 
 
 
-
 Ticket      Reason 
 Attunity tasks issues: 
     UIHN-50317 Production - Users unable to log onto Unified Insights 
+    https://powerschoolgroup.atlassian.net/browse/UIHN-50546 : similar issue. not sure if due to replication 
+    
 
 Onboarding Tickets taking longer time:
     https://powerschoolgroup.atlassian.net/browse/UIHN-46346
     Customer is UAE customer. SIS DB not found. District Code not there. Several Issues. 
+
+Rollover Process
+    After Azure to AWS Migration have work to stabilize this in Q3. 
+
+cron not picking up jobs: 
+    https://powerschoolgroup.atlassian.net/browse/UIHN-50271
+
+data type (null not null) mismatch in ETL vs Source
+    Production : Olap refresh error for lrsc
+    https://powerschoolgroup.atlassian.net/browse/UIHN-49620
+    https://powerschoolgroup.atlassian.net/browse/UIHN-49952
+
+    Why we have fields in ETL that are mandatory while in source these are not mandatory. 
+    Do we have a mechanism to send these records to error records and report to customers via some reports ? Or can we make these nullable in ETLs as well. 
+
+spaces and special characters in source:
+    https://powerschoolgroup.atlassian.net/browse/UIHN-50040
+    what does it take for us to allow spaces in source and not let our ETL fail
+
 
