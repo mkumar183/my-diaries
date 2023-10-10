@@ -1,37 +1,25 @@
 https://github.com/mkumar183/diary-technical-execution/commits/master/my-docs/01-daily-checks.md
 
-UU Thing: Document it: 
-ocas_externalaccountmap; 
-- Do not worry about UU or non UU 
-- Just ignore auth0 URLs 
-- Decoupling plugin is enabled 
-- Decoupled URL: 
-- first if condition add decouple plugin 
-- else 
+Oct-03
+- Hailey Shi mentioned you on TPO-1334
+- Hackathon T-shirts and planning 
+- Respond to Talend License issue 
+- Docker email training response 
+- Define CAPA Process 
+- UU Spike: UIHN-50872 Spike: keep a check 
+- 23.9 checkpoint with Othello and a release dashboard from snowflake 
+- Pagerduty setup emails 
+- Visa Follow up
 
 
 QBR:
 - How we look in 2024 
 - What would be your focus area and why would you focus on that ? 
--  Top five plus & Top Five minus
+- Top five plus & Top Five minus
 - How we see 2024 for SLT
 - Any experiences/learnings
 - Budgeting (Few topics)
 - IN-office presence
-
-
-Sept-21
-- UU Spike : UIHN-50872 Spike: Identify the change required in the User Extract file base…
-- Winsten Salem P0
-- 23.9 checkpoint with Othello and a release dashboard from snowflake 
-- Current outstanding backlog customer reported 
-- Hackathon T-shirts and planning 
-- Grow Team impact workshop : Delegation and accountability by 27 September 
-- Visa Ticket
-- WSCF https://powerschoolgroup.atlassian.net/browse/UIHN-51313 Root Cause and Prevention  
-- Pagerduty setup 
-
-Done: - Starting of New Portal Team. Move of Akash from Spartans. : Done : Pixel 
 
 
 Interstellar: 
