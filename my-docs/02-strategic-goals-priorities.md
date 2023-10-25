@@ -20,7 +20,7 @@
 
 
 #### Discussion with D 9/20:
-1. Snowflake Migration 
+1. Snowflake Migration : 2 a day. 
 2. Build statuses in Snowflake 
 3. No Code Change Tickets: Scaling 
 4. Smaller Builds: Faster Releases 
@@ -28,6 +28,11 @@
 6. New onboarding guide 
 7. Ask Scott to document what engineering team should do.
 8. Assessments 
+
+Discussion with D 17-10:
+- filter for tickets by Scott: https://powerschoolgroup.atlassian.net/issues/?filter=83233
+- Snowflake Migration 
+- 
 
 
 #### issues: 

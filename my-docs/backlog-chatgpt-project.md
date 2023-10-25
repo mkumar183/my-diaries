@@ -1,14 +1,38 @@
 Pending:
-- Establish on AWS Batch and hourly refresh 
+
+Assign components automatically to new tickets 
+Get last comment in jira extn table 
+
+Metrics:
+- Inflow Analysis By Component and Department  monthly - Is it trending up or down
+- Completion % (User Stories Only): Bugs keep bandwidth
+- Average story points: 
+- Average dev cycle time 
+- Average total cycle time 
+
+No Fix Version: 
+- Count and story points of No Fix Version Tickets by each month 
+- By components and team and other filters 
+- Filters production issues, internal issues
+
+
+Filters by Bugs / User story / Production vs internal defects / Team / Department logged 
+- Release dashboards / Analysis: 
+  - count of defects / user stories delivered in a release
+  - story points delivered in a release 
+  - Epics delivered in release 
+  - count of git merges 
+  - count of lines of code delivered by repo 
+  - number of confluence documents developed in release time line   
+
+- tickets for Platform Optimization vs Operations work by data ninja 
+- Individual contribution: Story Points, MRs, Confluence, MR Reviews 
+- Cycle time overall and Dev Cycle time 
+- Discuss and enhance system to capture timesheet hours if needed 
+- PRs by repo -> Set goals for having some MRs to DW ETL from each team 
+- EPIC or Initiative wise dashboards ? 
+
 - Sprint performance metrics
-  - Populate sprint dimension - Done 
-  - tickets completed - Done 
-  - story points completed - Done 
-  - tickets with no fix version or tickets with having some commit part of it - Done 
-  - bugs vs user stories - Done 
-  - summary by epics how many epics how many stories are done in the sprint - Done 
-  - Add a column which states if this ticket has any commit mentions or not 
-  = Add a column that give associated PR and its url 
   - Add confluence and MR Contributions within context of the sprint 
   - Add sprint column to planned vs complete widget 
   - Add no fix version filter and analysis 
@@ -17,11 +41,9 @@ Pending:
 
 - Release dashboard with release filter 
   - release completion dashboards 
+
 - Add ftp download logs to snowflake instead of json file
 - EPIC/Initiative Statistics - dashboard  
-
-
-
 
  
 Done:
@@ -48,3 +70,4 @@ Done:
 - modify column in fact to timestamp
 - or add new columns and delete existing
 - modify merge statement to conver to timestamp 
+- Establish on AWS Batch and hourly refresh : Done 
