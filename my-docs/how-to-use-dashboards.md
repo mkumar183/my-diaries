@@ -13,3 +13,12 @@ Analysis for User Stories
 
 
 Individual Analysis 
+
+### Metrics that should matter: 
+1. in a period lets say 6 months. for a team. Total story points done. 
+2. Divide story points in user stories and bugs 
+3. Slice that work into bugs solved for production customers and within that how many have code changes 
+4. For user stories, categorize under which EPICs these belong to and what business impact these stories are able to create. (how much epics are able to move forward)
+5. Correlate this with dev cycle time effort. and that with story points and git checkins. 
+
+
