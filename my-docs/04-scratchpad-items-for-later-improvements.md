@@ -33,3 +33,16 @@ SSO Issues Troubleshooting:
 - Revise latency for Attunity tasks 18000
 - Create a document on how to access new relic dashboard for attunity failures / latency 
 - Horizontal scaling 
+
+
+Possible Initiatives: 
+- centralized customer tracking system of record: https://powerschool.domo.com/page/501974374
+- Argo optimization reduce nodes
+- Use of Snowflake to get ETL Statuses/Log tickets automatically 
+- Assessment Automation Improvements can happen 
+- Meeting effectiveness 
+- 1-1s Effectiveness 
+- Money Focus 
+- Release process 
+- insights-shoutout 
+- 
