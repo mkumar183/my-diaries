@@ -9,23 +9,6 @@ Meeting with Devendra: 11/9/2023:
 5. Kickboard immersion to Unified Insight 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Updates by others: 
 SIS Compliance: Multiple Versions, Compliance Q1 goals. 
 Prakhar: GitPrime. Driving Coding days. AI 

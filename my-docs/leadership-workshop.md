@@ -62,7 +62,15 @@ Summary of Shivani's Presentation:
     - Learning Nav 
     - 100 engineers on AI and Data Related solutions 
 - Our differentiator is not going to be individual AI solution. But AI as Platform. 
-- Every district need to buy our CI solution for having AI Platform. 
+- Every district need to buy our CI solution for having AI Platform. \
+
+
+Survey Results: 
+What worked in your team ? 
+- AI, collaboration, Innovation, CI and UI, 
+Roadmap changes, collab and communication, proces and efficiency, 
+Next 3 years we are all here 
+
 
 
 

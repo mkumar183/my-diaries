@@ -1,3 +1,114 @@
+Staff Meeting Long one with Shemeem, Vaidehi, Veda, Nitin and Megha:
+Metrics Discussion 
+Meeting Effectivness 
+1-1 
+Customer Focus / Competitive Analysis 
+Goals and Focus for 2024 
+
+https://powerschool.domo.com/page/733042854
+Getting Data in Snowflake: 
+
+Customer Focus: 
+-> Usage of our product (Gainsight/New Relic) 
+
+What happened in last x days? 
+1. How many new tickets came in 
+2. How many tickets were resolved 
+3. How many git merges happened 
+4. How many content changes were done 
+5. How many confluence pages were created / updated 
+6. Who all logged how much time ? 
+
+
+Usage and Monitoring
+-> New Relic Metrics  
+
+Tenant Data in Snowflake
+-> Versions, Student Counts, Modules Enabled
+
+Employee Data: 
+-> Skills (List of Skills) Inventory 
+-> Employeeid, Month, Skill
+-> Forecasting what skills we will need (in next 6 month) 
+-> Prepping up for it 
+-> Component ownership by Teams
+
+
+ETL Status: Vedantham/Shemeem 
+-> Already we have. Testing and how to use 
+
+GitPrime Metrics: Vedantham 
+
+-> Velocity (By Team and By Engineer) 
+-> % of Velocity on Maintenance  
+-> Completion % (Planned vs Complete) 
+
+By Engineer: 
+-> JIRA, Confluence and Git 
+-> Comparison across Engineers 
+
+Bugs in Bronze: QA Logged: Internal Regressions: 
+-> Trend over month, Teams, Components 
+
+Dev Cycle Times: 
+-> To understand where engineers are spending more time. what kind of tickets are getting blocked. What can we do to reduce 
+-> 
+
+Current Sprint Dashboard: 
+-> Avg Dev Cycle Time per ticket and or per story point: 
+   Dev in Progress to Ready to Accept 
+
+TimeSpent vs Story Points
+-> Avg Timespent per story point 
+-> Collaboration: Number of people spending time on a JIRA 
+-> Timespent vs Estimate on an EPIC 
+
+Total Cycle Time 
+-> 
+
+Fix Version %: No Fix Version
+-> Configuration or Data Issues. % 
+-> Only for Bugs. % of issues closed with No Fix Version. 
+-> By component, Team, Department logged 
+-> Trend over sprints 
+-> Audit. Ticket with Fix Version but not having Git Merge / Checkin 
+ 
+Capex % 
+-> Across Stories/Bugs. % of story points contributing to Capex. 
+-> By Team
+-> Trend over sprints 
+-> (Are we making money): % of capex work going towards existing content ? How are these feedbacks coming from customers.
+
+** Take STORY POINTS Seriously ** 
+Customer Issues 
+-> EDV: Salesforce cases. Trend. If its going up or down. 
+-> Total Cycle Time 
+-> Ageing 
+
+% Automation Coverage:
+-> Pass percentage 
+
+EPIC: 
+-> Total Stories, Completed, Expected End Date, Completed (Planner) 
+-> EPIC Ownership by Team 
+
+
+Audit Reports:
+- Git merges missing Ticket number 
+- Worklogs missing 
+- Git missing reviews and comments 
+- Fix version missing git link 
+- Support logged tickets missing components: send automated email if possible to Sudhi 
+- x story point tickets exceeding x days in dev in progress 
+- tickets blocked beyond 3 days 
+- Tickets with x age not triaged and put in BRB 
+- Tickets in team backlog not addressed 
+- Tickets spilled over beyond 3 sprints for a team 
+
+
+
+
+
 Productivity, Product Improvements and Business impact 
 
 -> Current Sprint and Backlog 

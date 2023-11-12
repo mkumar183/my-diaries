@@ -1,9 +1,4 @@
-we get many tickets with request to change configurations on behavior side. How can we have a better process that these are not logged as JIRA tickets. 
 
-https://powerschoolgroup.atlassian.net/browse/UIHN-50236 
-Where is the documentation for these SSO process. Is this documentation or Automation that needs to be improved in order for such issue to not occur. 
-
-How to build a culture of Prevention and not just Fixing. 
 How to note down work that is done for prevention. Such as tickets logged and work done and reward this ? 
 
 Production Checklist
@@ -51,5 +46,7 @@ SSO Issues Troubleshooting:
 - School year should be mapped 
 - YET Rollover should automatically happen from 
 - Troubleshooting UIHN login error in production : Document 
-- 
-
+- How to get to know if Attunity is working or not. 
+- Revise latency for Attunity tasks 18000
+- Create a document on how to access new relic dashboard for attunity failures / latency 
+- Horizontal scaling 
