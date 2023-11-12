@@ -7,7 +7,6 @@ How we end the year strong and lay foundation for 2024
 Build trust with other SLT leaders to know they have your back 
 Commitment as one team 
 
-
 Ground rules: 
 -> More discussion less presentation - precious face to face time 
 -> candid conversation - cohesive teams require some conflict
