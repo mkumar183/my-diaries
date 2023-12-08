@@ -1,3 +1,10 @@
+Q4: 
+Snowflake Migration: e.g. using Actionable Agile. Getting focus on older blocked tickets and helping team on these blocked tickets. 
+Dashboards and Metrics for productivity: 
+
+
+
+
 1. Components are getting stamped by Services 
 2. Establishing JIRA Automation system with ChatGPT in Snowflake 
 3. Build statuses to Snowflake: 

@@ -1,3 +1,16 @@
+Next Meeting Topics: 
+1. QA reports. 
+2. More empowerment like budgets. headcounts. 
+2. Salesforce tickets not marked with customer name 
+3. Process such as Ready for Release to Close, Epic Dates to be responsibilities of Engg Managers as well. Continuing Epics sprint goals. 
+
+
+12/1/23: 
+1. RCA is not done on the tickets 
+2. Shared goals we need to follow up 
+3. Use bounty if needed for certain crucial tasks 
+
+
 Meeting with Devendra: 11/9/2023: 
 1. Snowflake Migration: 72 Tenants done. Daily able to move 3+ Tenants. Getting ready for corner cases like RA, Prediction  
 2. Scaling Platform: Tenants data in snowflake, Cloudops Efficiency, Onboarding Guides, P0 Process: Scaling Platform

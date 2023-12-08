@@ -1,0 +1,21 @@
+This is a way to escape the curly braces in a YAML file. In Argo workflows, {{inputs.parameters.customer}} is a placeholder for a parameter named customer. However, if you want to include the literal text {{inputs.parameters.customer}} in a YAML file, you need to escape the curly braces.
+
+In this case, the outer single quotes (') are used to denote a string. The {{ "{{" }} and {{ "}}" }} are Jinja2 templating syntax used to escape the inner curly braces.
+
+So, '{{ "{{" }}inputs.parameters.customer{{ "}}" }}' will be rendered as {{inputs.parameters.customer}} in the final YAML.
+
+This is often used when you're writing a YAML file that will be processed by a templating engine before it's used. The templating engine will replace the {{ "{{" }} and {{ "}}" }} with { and }, respectively, leaving you with {{inputs.parameters.customer}} in the processed YAML.
+
+
+
+-- using kubectl to get secrets from bronze 
+-- connect to appgate 
+-- have kubectl 
+-- log in to portal.azure.com using .cloud account 
+-- all resources -> select all accounts -> search for kubernetes -> 00UIHD1AKSA001 -> connects 
+-- install az cli in case you dont have on your machine  
+-- run these commands as given in "connect to k8s" window: 
+-- az account set --subscription 5c7a1a9a-9291-425f-ab4a-51e0be4ca63d 
+-- first az login 
+-- now .kube folder is created in root folder and config is created 
+-- kubectl config use-context 00UIHD1AKSA001

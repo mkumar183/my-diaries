@@ -18,6 +18,7 @@ What happened in last x days?
 4. How many content changes were done 
 5. How many confluence pages were created / updated 
 6. Who all logged how much time ? 
+Pending: Link git emails with team page. update team information.
 
 
 Usage and Monitoring
@@ -104,9 +105,6 @@ Audit Reports:
 - Tickets with x age not triaged and put in BRB 
 - Tickets in team backlog not addressed 
 - Tickets spilled over beyond 3 sprints for a team 
-
-
-
 
 
 Productivity, Product Improvements and Business impact 
@@ -206,8 +204,6 @@ Quarterly Dashboards: Focused on Quarterly Goals
 
 
 Release Dashboards:
-
-
 
 
 Engineer Dashboard: (Quarterly)

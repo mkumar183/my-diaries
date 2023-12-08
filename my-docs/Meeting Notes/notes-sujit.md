@@ -9,7 +9,7 @@ Actions Taken
 2. Complete Team to Component Assignment - Manoj 
    3.1 90, 120, 270 day plan for component ownership. 
    3.2 Improve Incoming of issues 
-   3.3 Team owning component must fix issues in DW ETL also. Training of fixing to be imparted to the teams
+   3.3 Team owning component must fix issues in DW ETL also. Training of fixing to be imparted to the teams 
    3.4 Troubleshooting docs to be categorized by components and articles to be created by teams  
 4. ETL Platform KT to India Teams  
 5. Portal Platform KT to India TEams (Pixel and Portal)  
@@ -34,3 +34,7 @@ Actions Taken
    9.1 expedite issues with interstaller and spartans and DM   
    9.2 understand what help snowstorm need to move issues out quickly   
    9.3 what more we can do to expedite this process   
+
+
+
+

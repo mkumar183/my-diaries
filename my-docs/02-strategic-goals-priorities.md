@@ -1,35 +1,31 @@
-#### Top Strategic Priorities: 
-1. Snowflake Migration: Shivasheesh and Shemeem 
-2. Platform scaling: Formalize Onboarding guides and update process: Shemeem 
-2. Platform scaling: formalize production checklist process : Shemeem 
-3. Platform scaling: Decentralise platform support: Get more Visibility to more people in Team 
-4. Platform scaling: Establish P0 Process: Training plan for more people supporting platform 
-5. Platform scaling: Cloudops run book: Make collecting ETL Statuses Easy and less time consuming: ? 
-6. Platform scaling: list all run books that team has handed over to cloudops: e.g. SSO configuration. Integrate in Onboarding guide or separately. (https://powerschoolgroup.atlassian.net/browse/UIHN-50236)
-5. Platform scaling: Improve release process: Release checklist process 
-6. Platform scaling: Get more knowledge about deployment of each module 
-7. Platform scaling: Reduce K8S pods for ETL 
-8. Platform scaling: Establish hotfix and release process: More frequent and easy: Vedantham 
-9. Platform scaling: Improve monitoring / alerts: Dashboard for Attunity Errors ? Extract Failures , ETL Failures 
-10. Platform scaling: Review rollover process and fix for 2024 
+## Top Strategic Priorities: 
+### 1. Snowflake Migration | Shivasheesh
+### 2. Platform scaling
+    2.1 Decentralise platform support: Get more Visibility to more people in Team     : Added 
+    2.2 Formalize Onboarding guides : Added 
+    2.3 Formalize production checklist process : Added 
+    2.4 Establish P0 Process: Training plan for more people supporting platform : Added 
+    2.5 SRT Daily run book simplification: Make collecting ETL Statuses Easy and less time consuming: ? : Added 
 
-6. Customer Focus: Get hold of Gainsight : Megha ?   
-9. Scale Operations: Organise by components: Reduce incoming in production where support can solve: Vaidehi
-8. Scale Operations: Skill metric, Component ownership for Team: Vaidehi 
-9. Scale Operations: Review and Analyze Internal Regression Defects: Nitin 
-10. Scale operations: Fix SSO Role mapping issue : Platform Team : Can someone else take this up in Teams ? 
-10. Scale Operations: Build a culture of Prevention and not just Fixing: Establish CAPA Process. Audit Report: Vaidehi 
-10. Scale Operations: Reduce contribution to No Fix Version Issues & Opex Issues & Reduce Cost in production 
+    **2.6 List various run books that team has handed over to cloudops: e.g. SSO configuration. Integrate in Onboarding guide or separately. (https://powerschoolgroup.atlassian.net/browse/UIHN-50236) 
 
-
-#### Tactical items 
-8. Established detailed onboarding guide 
-9. Identify smaller changes to TM that can improve upgrade and release experience 
-10. Complete Release process document 
-11. Establish a HotFix Process 
-12. Establish P0 and P1 process 
-13. Dev Tenant Process : Onboarding Guide, Maintenance 
-
+    2.7 Improve release process: reduce time it takes to do the release     
+    2.8 Get more knowledge about deployment of each module 
+    
+    2.9 Reduce K8S pods for ETL 
+    2.10 Establish hotfix and release process: More frequent and easy
+    2.11 Improve monitoring / alerts: Dashboard for Attunity Errors ? Extract Failures , ETL Failures 
+    2.11 Review rollover process and fix for 2024 
+### 3. Customer Focus: Get hold of Gainsight : Megha ? 
+### 4. Scale Operations and Improve Productivity
+    4.1 Improve gitprime metrics: especially around # of code checkins, reviews 
+    4.2 Reduce number of issues with no code changes, Increase contribution to Capex
+    4.3 Reduce incoming in production where support can solve By Components 
+    4.2 Skill metric, Component ownership for Team
+    4.3 Review and Analyze Internal Regression Defects: Nitin 
+    4.4 Fix SSO Role mapping issue : Platform Team : Can someone else take this up in Teams 
+    4.5 Build a culture of Prevention and not just Fixing: Establish CAPA Process. Audit Report: 
+    
 
 #### Discussion with D 9/20:
 1. Snowflake Migration : 2 a day. 
@@ -44,10 +40,9 @@
 Discussion with D 17-10:
 - filter for tickets by Scott: https://powerschoolgroup.atlassian.net/issues/?filter=83233
 - Snowflake Migration 
-- 
 
 
-#### issues: 
+#### issues:
 - Team focusing on BRB vs New SKU Item in a given sprint 
 - Smaller EPICs. Well defined with Scope and End Dates 
 - P0 and P1 process and SLAs 
