@@ -1,10 +1,25 @@
+2024-Q1 
+Made forums like
+- collab with cloudops success - run with a planner board with clear action items and follow ups 
+- collab with support success - run with a planner board with clear action items and follow ups 
+- Component ownership and cleansing of components - meetings with dudley and Rene and communication to support 
+- RCA Practice - regular follow ups on RCAs and sensitivity in teams to reduce Inflows 
+- BRB Meeting during india hours - Bringing together product, qa and engineering every daya 
+- Priority Today Label 
+- Snowflake migration -? 
+- Rewards across teams -> Very well taken across and energy booster 
+- Need to push for why QA is finding so many issues in Bronze. 
+
+
 Q4: 
 Snowflake Migration: e.g. using Actionable Agile. Getting focus on older blocked tickets and helping team on these blocked tickets. 
 Dashboards and Metrics for productivity: 
 
+RCA Analysis on every bug and follow up for RCA: 
+https://powerschool.slack.com/archives/C069C01LHB2/p1701870181931129 
+A process with audit reports and follow ups. 
 
-
-
+--------------------------------------------------------------
 1. Components are getting stamped by Services 
 2. Establishing JIRA Automation system with ChatGPT in Snowflake 
 3. Build statuses to Snowflake: 
@@ -37,15 +52,8 @@ I have driven some of the changes such as snowflake migration guide and making i
 
 We have brought in our data in snowflake with many augmented analytics fields such as time tickets takes during development, total cycle times, flagged times for tickets, department from where tickets are logged. Data is also brought from git and confluence to identify contributions by teams and team members to these places. 
 
-
-
 Collaboration with support teams are established and support team is stamping components and are also providing more troubleshooting steps before bringing issues to engineering. 
-
-
 
 We have identified a good number of issues logged by QA in Bronze and we need to set better quality standards such that not so many issues are logged by QA Team since these are mostly regression issues caused by new development that is not tested well before merging code to bronze. 
 
-
-
 Created an Awards process that will help teams identify their top stars and really appreciate individuals who are able to contribute more towards product. 
-

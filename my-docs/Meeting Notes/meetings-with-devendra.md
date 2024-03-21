@@ -1,3 +1,10 @@
+Next Meeting Devendra : Q2-2024: 
+
+- Working with cloudops to understand the error messages, so far they are just pasting the audit template and not digging into and finding what the errors are example is UIHN-64868 also aspire ticket, snowstorm team found the space issue while cloudops only logged the build failure issue 
+- 
+
+
+
 Next Meeting Topics: 
 1. QA reports. 
 2. More empowerment like budgets. headcounts. 

@@ -7,7 +7,6 @@ So, '{{ "{{" }}inputs.parameters.customer{{ "}}" }}' will be rendered as {{input
 This is often used when you're writing a YAML file that will be processed by a templating engine before it's used. The templating engine will replace the {{ "{{" }} and {{ "}}" }} with { and }, respectively, leaving you with {{inputs.parameters.customer}} in the processed YAML.
 
 
-
 -- using kubectl to get secrets from bronze 
 -- connect to appgate 
 -- have kubectl 
@@ -19,3 +18,32 @@ This is often used when you're writing a YAML file that will be processed by a t
 -- first az login 
 -- now .kube folder is created in root folder and config is created 
 -- kubectl config use-context 00UIHD1AKSA001
+
+
+Install lens on your machine. 
+
+https://powerschoolgroup.atlassian.net/wiki/spaces/HNE/pages/64786170036/Setup+Lens+and+Connect+to+Bronze
+exe shared by yogesh in channel 
+
+
+K8S Course on Udemy: 
+https://powerschool.udemy.com/course/amazon-eks-starter-kubernetes-on-aws/learn/lecture/31863292#overview
+
+Basics you should know : 
+- K8s API Server 
+- Kubelet 
+- Master and Worker Nodes, Pods 
+- Deployments, Services 
+- Networking within Kubernetes 
+
+
+AWS Basics: 
+- VPC, Sublets 
+- IAM 
+- EC2, EBS 
+- Load Balancers 
+- Security Groups 
+
+
+
+
