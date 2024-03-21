@@ -14,6 +14,7 @@
         3.1.2 Reduce # of incoming to Engineering for DW ETL Failures (Enable Cloudops in Solving these issues) 
         3.1.3 Reduce # of DW_ETL Issues that go to DM Team 
     3.2. Get Cloudops Out of Filling RM Sheet
+    3.3 Component wise alignment (Reduce Inflow) 
 
 ### 4. Platform Enhancements
     3.3 API for Tenant Configurations 
