@@ -5,6 +5,7 @@
     1.3 MTSS Intervention (Q1,Q2-2024) 
     
 ### 2. Delivery Hard Problems from India (Shemeem (Rohit/Azaz)) 
+    Already doing: Tenant Manager Application, Development in Portal, Creation of Infrastructure in AWS
     2.2 Portal Scalability 
     2.3 Make Logi deliver from India for LAUSD 
     2.4 Resolve DW_ETL Issues from India (Currently DM team is choked by it) 3.1.3 Reduce # of DW_ETL Issues that go to DM Team 
@@ -19,6 +20,7 @@
 ### 4. Platform Enhancements (Make onboarding and upkeeping of existing customers easy) (Shemeem/Azaz) 
     3.3 API for Tenant Configurations 
     3.4 Labels in Tenant Manager 
+    3.5 Reduce upgrade time of a tenant from () to () - as of now 14 hours. reduce this to half. with increase of tenants this should not increase. 
     3.5 Frequent Releases for TM 
 
 ### 5. ChatGPT Innovations (Misc) 
