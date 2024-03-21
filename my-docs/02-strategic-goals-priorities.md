@@ -1,14 +1,14 @@
 ## Top Priorities: 
-### 1. Deliver High Innovation from India 
+### 1. Deliver High Innovation from India (Nitin, Gaurav and Shemeem) 
     1.1 Kickboard Analytics (Q1-2024)  
     1.2 Kinvolve Analytics (Q2-2024) 
     1.3 MTSS Intervention (Q1,Q2-2024) 
     
-### 2. Delivery Hard Problems from India 
+### 2. Delivery Hard Problems from India (Shemeem (Rohit/Azaz)) 
     2.2 Portal Scalability 
     2.3 Make Logi deliver from India for LAUSD 
 
-### 3. Improve Operations 
+### 3. Improve Operations (Vaidehi and Shivasheesh) 
     3.1 DW_ETL Noise Reduction
         3.1.1 Reduce # of Build errors in production 
         3.1.2 Reduce # of incoming to Engineering for DW ETL Failures (Enable Cloudops in Solving these issues) 
@@ -16,12 +16,12 @@
     3.2. Get Cloudops Out of Filling RM Sheet
     3.3 Component wise alignment (Reduce Inflow) 
 
-### 4. Platform Enhancements
+### 4. Platform Enhancements (Make onboarding and upkeeping of existing customers easy) (Shemeem/Azaz) 
     3.3 API for Tenant Configurations 
     3.4 Labels in Tenant Manager 
     3.5 Frequent Releases for TM 
 
-### 5. ChatGPT Innovations
+### 5. ChatGPT Innovations (Misc) 
     5.1 Knowledge Bank 
     5.2 Content work Improvement in productivity 
     5.3 Pixel and Pinnacle use of Co-pilot 
