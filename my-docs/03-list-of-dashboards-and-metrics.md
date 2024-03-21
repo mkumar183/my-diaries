@@ -3,15 +3,15 @@ Align metrics with Top Goals:
    - Epics and Story Points Delivered.
    - Demos
 - Operational Efficiency
-   - # of ETL Errors (a trend showing errors reducing)
-   - # of inflow of issues from cloudops to engg
-   - # of tickets DM team has to handle for DW_ETL 
+   - of ETL Errors (a trend showing errors reducing)
+   - of inflow of issues from cloudops to engg
+   - of tickets DM team has to handle for DW_ETL 
 - Platform Improvements
-   - # List of improvements that make impact
-   - # reduction of upgrade time
-   - # labels and flags
-   - # APIs to get list
+   - List of improvements that make impact
+   - reduction of upgrade time
+   - labels and flags
+   - APIs to get list
 - Delivery hard problems from India
-   - # DW_ETL Failures
-   - # Logi
-   - # Portal Horizontal Scaling 
+   - DW_ETL Failures
+   - Logi
+   - Portal Horizontal Scaling 
