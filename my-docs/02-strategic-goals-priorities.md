@@ -7,12 +7,12 @@
 ### 2. Delivery Hard Problems from India (Shemeem (Rohit/Azaz)) 
     2.2 Portal Scalability 
     2.3 Make Logi deliver from India for LAUSD 
+    2.4 Resolve DW_ETL Issues from India (Currently DM team is choked by it) 3.1.3 Reduce # of DW_ETL Issues that go to DM Team 
 
 ### 3. Improve Operations (Vaidehi and Shivasheesh) 
     3.1 DW_ETL Noise Reduction
         3.1.1 Reduce # of Build errors in production 
-        3.1.2 Reduce # of incoming to Engineering for DW ETL Failures (Enable Cloudops in Solving these issues) 
-        3.1.3 Reduce # of DW_ETL Issues that go to DM Team 
+        3.1.2 Reduce # of incoming to Engineering for DW ETL Failures (Enable Cloudops in Solving these issues)         
     3.2. Get Cloudops Out of Filling RM Sheet
     3.3 Component wise alignment (Reduce Inflow) 
 
