@@ -1,6 +1,0 @@
-- Issues long pending in a given status 
-- Tickets flagged for a long time
-- Issues that moved into the sprint yday
-- Issues created yesterday
-- Important updates on Issues yesterday
-- Issues where status changed yesterday 
