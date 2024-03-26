@@ -1,12 +1,24 @@
-# What is technical Execution 
+### Technical Execution in the context of a business problem solution organization 
 
-# Context 
-## An organization solving their problem using technologies or applications. 
-## A software company building a new application that will solve problems. 
-## Process of building a web application or a solution 
-## Process of upkeeping of an application 
-## Building the right culture 
-## Solving business problems
+##### Context: About Myself 
+I am part of PowerSchool where we are engaged in solving problems for educational institutes especially K-12 schools and school districts. So we are essentially in a business of building small to medium size web applications that help teachers, administrators, students and parents. Education is important part of every human beings life. K-12 is a period of 12 years that kids spend in schools learning various skills. What they learn during this time is what makes them and determines their future. While industries are wide and there are so many skills all students are put through the same education system to perform in the industries at very different levels. 
+
+This technical execution guide is from perspective of an organization which is of our size that deals with 30-40+ different applications and these applications are then used by a particular school district to run their day to day operations and gain efficiencies in their processes and provide best outcomes to their students, teachers, administrators and parents. 
+
+###### Organize itself as separated Web Apps
+Unlike organizations like Oracle or SAP that could build many business applications under the same technology and architectures, In these organizations we are faced with challenge of dealing with applications built using very different set of technologies and their architectures are different as well. Starting from the time these applications were built to the selection of technologies, cloud providers, deployment methodologies and monitoring / observability in the cloud each of these practices are different for these different applications. 
+
+The major challenge we are faced with is how to integrate these applications and provide a seamless experience to our customers. 
+
+###### How you organize yourself matters 
+While each of these products were at one point of time established independently and are still functioning independently putting these into a flattened structure creates a bottleneck to growth of each application. Today we are organized as horizontal organizations made up of Engineering, Support, Services, Cloudops, Product Management etc. While each of these departments deal with all of 40-50+ product lines there is little in common in these. The communication across these departments becomes increasingly difficult. While each of these departments act more like 'COEs' they have something to benefit to be each other in terms of sharing best practices however, the context of each of these teams remain very different. Eventually, teams loose context of their own application and the customers and their needs. 
+
+###### An organization solving their problem using technologies or applications. 
+###### A software company building a new application that will solve problems. 
+###### Process of building a web application or a solution 
+###### Process of upkeeping of an application 
+###### Building the right culture 
+###### Solving business problems
 
 
 ### 3 Broader categories of 'Software Organizations' 
