@@ -1,5 +1,8 @@
-April-2024 Monthly Report 
-- Reports in snowsight parallel to Logi by Akash.
-- Logi Implementation
-- 24.2.0.0
-- 
+Focus for April 
+DataNinja : 
+- P0 process
+- PODs Scaling
+- Logi Implementation (snowsight)
+
+
+- Snowflake migration: Discussion for blocked tenants services who are contacts. Rene has tickets for services that he should update. 
