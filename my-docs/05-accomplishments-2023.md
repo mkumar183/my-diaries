@@ -1,3 +1,29 @@
+2023 
+- From 3 Engineering teams to 8 Engineering Teams.
+- Cost reduction from Services. 90% cost reduction on Kickboard since its inception. Fully 100% managed in India.
+- 7 of 8 engineering teams are fully in India except one where we have Eric in US.
+- Snowflake migration a big challenge that we solved by setting up new team.
+- Portal work which was never taken up by India teams is now done by India teams. (MTSS Work with a new PO in India)
+- I have only 2 engineering managers reporting to me (1 Associate and 1 has been promoted in this cycle).
+- 2 Engineering managers left (Megha jain resigned, Vedantham was let go)
+- Hired fresh talent which is performing very well (high complexity portal MTSS work)
+- DataNinja team has been doing 'Ops' work until Q1-2023. In 2023 they have taken ownership of Tenant Manager full ownership and independently done infrastructure migration work for snowflake migration.
+- eNPS for a large engineering team is 2nd best in India. Productivity of all teams is very high (50+ Story points and huge amount innovations delivered in 2023 (TMA 4 products, Intervention Analytics (DW ETL work), AWS migration, Kickboard Analytics, Now teams working on Kinvolve, Logi work is majority driven from India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2024-Q1 
 Made forums like
 - collab with cloudops success - run with a planner board with clear action items and follow ups 
