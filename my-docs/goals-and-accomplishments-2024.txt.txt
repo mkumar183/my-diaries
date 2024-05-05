@@ -1,0 +1,51 @@
+Deliver AOP Impacting Projects: 
+ CIP - School Improvement Plans 
+ Talent Analytics, Educator Analytics
+ MTSS - Integrations (Kickboard, Kinvolved), SEL/Surveys 
+ Advanced Analytics, Talk to your data 
+ CCLR Analytics
+Automation for deployment and ongoing maintenance of customers. 30% 
+ AI Examples (Scanning for Security, ETL queries, Upgrades, Code Conversions, Automation, Deployment, QA Processes) 
+Improve PowerScore : 15% Improvement in Velocity or 5% PowerScore improvement.  
+ 
+ 
+Meeting in June:
+1. Support forum success (Incoming reduction) 
+   1.1 working with support we are learning a lot. e.g. Support is not stamping SKUs as component and subcomponent which is allowing us easier analysis. 
+   1.2 The daily triage process in India has been extremely helpful for both engineering and support team getting us more visibility and control over the customer backlog. 
+   Metric: % of tickets in SFDC coming to JIRA improvements by components. 
+
+2. Operational success: # of DW/BRB defects resolved by India Teams 
+    # of tickets logged by cloud ops to core engg if comes down 
+	# of ETL failures in AWS coming down 
+	# Automation of RM Sheet ()
+	# AWS infrastructure is much more stable: 8 hours -> 2 hours (if aws only) 
+		# Snowflake migration. Has improved operations. However, cost is higher. What was the reason for Snowflake Migration ? 
+
+
+3. Operational efficiencies: POD Scaling. Very core and difficult work done by India Team 
+
+4. Improvement in upgrade times by India Team 
+
+5. Improvement in ETL Monitoring. Get a kudos from Scott and Maltesh. 
+
+6. AI Innovations by Team (Knowledge Bank + Security Scanning)
+   # Video by Kickboard team how to use co-pilot
+   # Conducted a session on FluxCD a gitOps Tool by Unified Insight across India Tech teams. 
+      
+
+India level we can enforce processes easily and bring transparency. They take more time but india team is more disciplined. US Team we are unable to enforce processes and they continue to work they have been working and improving any process is very hard with them. e.g. entering RCA analysis and stamping right status on JIRA Tickets. 
+
+   
+Org Wide Contributions that you should sing: 
+- Bringing opex vs capex awareness. 
+- Bringing noise bug awareness across. And focusing on Inflow than closures. 
+- Not forgetting core while we focus on new Innovations especially Gen AI 
+- We are platform company. How can we remain a platform company. 
+- Pay attention to Technical Debt and work on reducing it. 
+- Uping the ante on hiring. Spreading best practices of Schoology which even today nobody wants to hear. 
+- Do not focus on wrong metrics Such as cost per head. 
+- From focus on Velocity to Value Generation. How can we focus on generating value.
+
+
+

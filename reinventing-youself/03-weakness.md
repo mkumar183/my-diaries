@@ -1,0 +1,2 @@
+- Self-Marketing. Too busy in Doing things than Showing things. 
+- 
