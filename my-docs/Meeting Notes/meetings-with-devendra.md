@@ -3,28 +3,12 @@ Next Meeting Devendra : Q2-2024:
 - Working with cloudops to understand the error messages, so far they are just pasting the audit template and not digging into and finding what the errors are example is UIHN-64868 also aspire ticket, snowstorm team found the space issue while cloudops only logged the build failure issue 
 - 
 
-
-
-Next Meeting Topics: 
-1. QA reports. 
-2. More empowerment like budgets. headcounts. 
-2. Salesforce tickets not marked with customer name 
-3. Process such as Ready for Release to Close, Epic Dates to be responsibilities of Engg Managers as well. Continuing Epics sprint goals. 
-
-
-12/1/23: 
-1. RCA is not done on the tickets 
-2. Shared goals we need to follow up 
-3. Use bounty if needed for certain crucial tasks 
-
-
 Meeting with Devendra: 11/9/2023: 
 1. Snowflake Migration: 72 Tenants done. Daily able to move 3+ Tenants. Getting ready for corner cases like RA, Prediction  
 2. Scaling Platform: Tenants data in snowflake, Cloudops Efficiency, Onboarding Guides, P0 Process: Scaling Platform
 3. Forum with support: Making it success from India: Raising our game at customer level. 
 4. Additional Metrics and Dashboards: No Fix Version, Capex, Time vs Story points, Outcome and Effectiveness. Backlog/EPICs delivery  
 5. Kickboard immersion to Unified Insight 
-
 
 Updates by others: 
 - SIS Compliance: Multiple Versions, Compliance Q1 goals. 

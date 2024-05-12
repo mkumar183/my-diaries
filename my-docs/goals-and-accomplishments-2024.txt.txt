@@ -32,7 +32,17 @@ Meeting in June:
 6. AI Innovations by Team (Knowledge Bank + Security Scanning)
    # Video by Kickboard team how to use co-pilot
    # Conducted a session on FluxCD a gitOps Tool by Unified Insight across India Tech teams. 
-      
+
+
+Apoorav/India Mgrs Meeting: 
+- Component wise analysis and Support Forum 
+- Invalid bugs reduction 
+- Snowflake Migration   
+- Tenant Manager Overview 
+- Infra improvements for AWS Migration 
+- Enabling Alabama and LAUSD 
+- Performance Improvements in Cluster 
+    
 
 India level we can enforce processes easily and bring transparency. They take more time but india team is more disciplined. US Team we are unable to enforce processes and they continue to work they have been working and improving any process is very hard with them. e.g. entering RCA analysis and stamping right status on JIRA Tickets. 
 
