@@ -7,14 +7,17 @@ I excel in building high performing engineering teams that can translate busines
 
 
 My Strengths: 
-- My Problem solving skills, Technical understanding of various technologies, tools and architectures that helps me build scalable solutions, Technical knowledge (such as coding, technical designs and solution architectures), Architecture, My ability to translate business problems into technical solutions (I have high intuition towards it). 
+- My Executive Presence is my Strength
+- My ability to imbibe agile, progressive, non-traditional mindset when establishing high performance teams is my key strength. 
+- Problem solving skills, Technical understanding of various technologies, tools and architectures that helps me build scalable solutions, Technical knowledge (such as coding, technical designs and solution architectures), Architecture, My ability to translate business problems into technical solutions (I have high intuition towards it). 
 - Strategic thinking, I provide thought leadership to my organisation 
 - i am very structured and organised (both as self management and towards my work and profession). 
 - Deep thinker. 
 My Weaknesses: 
-- Not having in-depth experience in one single domain. Its little bit of scatterred around. 
+- Managing Up in my current professional environment which is bit more traditional style and authoritarian style and Communicating Up is my weakness 
 - In my career i did not have whole lot of customer interactions due to nature of businesses that i have worked upon. 
-- Tactical work items I sometimes do not enjoy working on though i take care of these. 
+- I am more strategic thinker than busy on tactical things which i love to deligate to my team and people. 
+- My Bias for Action is too low. So at times i end up taking too many initiatives. Though i review these periodically and make decisions quickly to cut down as needed but sometime this can overwhelm others in my team. To overcome this i have now started using 'Baking' state on my boards and unless i bake something for few days or even weeks i do not initiate it. 
 
 
 Personal and Self Goals: 

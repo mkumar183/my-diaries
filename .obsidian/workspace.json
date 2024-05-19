@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "e7f7c4c5323d4977",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0b84d85a8748bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8219b8eba733139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2dc4d75840cc790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "building high performance teams/Word cloud for Agile Leadership.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6c15d6c55a6b33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73e6dc50d68f9d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75b06fe0671cc9fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ef94add0858ca61",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ab6a885a3a0808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53effc9287816fe8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "940160f7c6d69443",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dce1cbbb7906b774",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b7e55ce182467b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eed0191f604b96a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22d18fdfaf41eae7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6e303653f7d9b11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59423860b72e0360",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94895b92b49a5ff4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "75b06fe0671cc9fd",
+  "lastOpenFiles": [
+    "building high performance teams/01 - About Myself.md",
+    "building high performance teams/Word cloud for Agile Leadership.md",
+    "building high performance teams/Transforming Self and Leadership before Transforming Teams.md",
+    "building high performance teams/03 - Deepening the effectiveness of six Scrum Principles.md",
+    "building high performance teams/02 - Deepening the Effectiveness of Core Agile Principles.md",
+    "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+    "Essence of Building High Performing Teams for Creative work such as Software Development.md",
+    "reinventing-youself/01-the-goal.md",
+    "reinventing-youself/02-Inventory-of-your-achievements.md",
+    "my-docs/04-scratchpad-items-for-later-improvements.md",
+    "my-docs/02-strategic-goals-priorities.md",
+    "my-docs/01-daily-checks.md",
+    "2024-05-18.md"
+  ]
+}
