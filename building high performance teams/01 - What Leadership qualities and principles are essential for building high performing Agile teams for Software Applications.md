@@ -1,16 +1,22 @@
 
+Leadership for agile team requires emphasis on few specific qualities. In a traditional leadership environment stress is more on being authoritative and decision making and leading the teams from front. Because in this nature of work creativity aspect is less. However, when work shifts towards higher creativity, a shift in leadership is required. This is a subtle shift and also this sometime hard to come. 
 
+Agile principles capture some of these well and if you distill these principles you will find that following leadership qualities become more effective in this environment. However, as the creative nature of work goes down some of the other aspect of leadership may become important. And since these qualities are like mindset and more ingrained in a leader as a person, the person will find it difficult to alternate between these qualitities. 
 
 - Why Agile Leadership Principles ? 
 - Agile Leadership is a mindset change from Authoritarian Leadership to more collaborative leadership. 
 - Empowering teams and focusing on outcomes is the key.
 
 Key Qualities of an Agile Leader: 
-- Humility - Know-it-all to Learn-it-all
+- Humility - Know-it-all to Learn-it-all 
 - Focus-on-outcome : Trust and Strategy 
 - Flexibility - Let go of preconceived idea of how to get it done. Use Agile Timeboxes 
 - System View - Examining the system 
 - Coach and not commandment 
+
+Create an environment where teams can come closer to customer experience and can iterate and improve on their own to achieve higher success. Teams are empowered to make decisions and are provided with criteria of success and failures. Leader in this case acts as a servant leader and focuses more on observations and coaches to make team improvements. Teams also frequently reflect and work on their improvements. Teams learn from empirical process control by learning to fail fast and adjust quickly rather than to be dictated by some organization wide process. Each team is encapsulated such that it can operate as its own start up. 
+
+
 ## Reviewing Product Architecture and Team Organization
 
 **Assess Team Charter:** Review the team’s charter to ensure it aligns with the organization's goals. A clear and focused charter provides direction and purpose, helping teams stay on track.

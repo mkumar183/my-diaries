@@ -4,8 +4,6 @@ Leaders need to create an environment where its safe to fail.
 
 These are soft aspects of Agile, Collaborative Leadership which are essential and a foundation for starting the journey of High-Performance teams for highly Innovative work where tasks are not repetitive and cannot be directed from top as is and more knowledge workers are involved. 
 
-
-
 Transitioning from Traditional Authoritative Leadership to Agile Leadership 
 Collaborative Leadership
 
@@ -100,6 +98,11 @@ collaboration, continuous improvement, and responding to change.
 11. **Self-Organizing Teams**
 12. **Regular Reflection and Adjustment**
 
+Principles that constitute an Agile Culture: 
+- Decentralisation of Power
+- Safe Environment 
+- Embracing Failure, Inspiring Growth: Building Trust and Improvement 
+- 
 ### Scrum Principles
 
 1. **Empirical Process Control**: Transparency, inspection, and adaptation.
@@ -108,3 +111,14 @@ collaboration, continuous improvement, and responding to change.
 4. **Value-Based Prioritization**: Focus on delivering the highest value features first.
 5. **Time-Boxing**: Fixed time periods for activities.
 6. **Iterative Development**: Repeated cycles to improve product and process.
+
+
+Disagree and commit. 
+Mental models. Scale. 
+
+Bias for Action. Risk Taking. 
+Fail Fast. Get Product out faster. Get right product faster. 
+
+psychological safety 
+
+https://lucid.co/blog/traditional-vs-agile-leadership
