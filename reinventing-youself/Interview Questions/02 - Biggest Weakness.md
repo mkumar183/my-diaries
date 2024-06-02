@@ -1,1 +1,0 @@
-At Times i get too much into details and that drifts me away from larger problems. 

@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reinventing-youself/highspot-principles.md.md",
+                "file": "Interview Questions/highspot-principles.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essence of Leadership in Building High Performing Teams.md",
+                "file": "building high performance teams/Essence of Leadership in Building High Performing Teams.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reinventing-youself/Interview Questions/01 - Technical Difficult Situation.md",
+                "file": "Interview Questions/01 - Technical Difficult Situation.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reinventing-youself/Interview Questions/01 - Technical Difficult Situation.md",
+                "file": "Interview Questions/01 - Technical Difficult Situation.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reinventing-youself/Interview Questions/01 - Technical Difficult Situation.md",
+                "file": "Interview Questions/01 - Technical Difficult Situation.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reinventing-youself/Interview Questions/01 - Technical Difficult Situation.md",
+                "file": "Interview Questions/01 - Technical Difficult Situation.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reinventing-youself/Interview Questions/03 Talk about a time when you handled a conflict.md",
+                "file": "Interview Questions/03 Talk about a time when you handled a conflict.md",
                 "mode": "source",
                 "source": false
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reinventing-youself/Interview Questions/03-02 when you had a disagreement with a co-worker.md",
+                "file": "Interview Questions/03-02 When you had a disagreement with a co-worker..md",
                 "mode": "source",
                 "source": false
               }
@@ -227,14 +227,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Diary/2024-05-26.md",
+                "file": "Interview Questions/05 - Slack CTO - Acquisition proposal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d3dd62e7429972f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reinventing-youself/01 - About Myself.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -284,7 +296,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 478.5
   },
   "right": {
     "id": "1b7e55ce182467b4",
@@ -300,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Diary/2024-05-26.md",
+                "file": "reinventing-youself/01 - About Myself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Diary/2024-05-26.md",
+                "file": "reinventing-youself/01 - About Myself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Diary/2024-05-26.md"
+                "file": "reinventing-youself/01 - About Myself.md"
               }
             }
           }
@@ -361,38 +373,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc7fff2d90928f7",
+  "active": "5d3dd62e7429972f",
   "lastOpenFiles": [
-    "reinventing-youself/Interview Questions/03 Talk about a time when you handled a conflict.md",
-    "Weekly Diary/2024-05-26.md",
-    "Weekly Diary",
-    "2024-05-21.md",
-    "2024-05-18.md",
-    "technical-execution/SAML-terminology.md",
-    "technical-execution/preface.md",
-    "reinventing-youself/02-Inventory-of-your-achievements.md",
-    "reinventing-youself/01-the-goal.md",
     "reinventing-youself/01 - Myself.md",
+    "reinventing-youself/01-the-goal.md",
     "reinventing-youself/01 - About Myself.md",
-    "Essence of Leadership in Building High Performing Teams.md",
-    "reinventing-youself/Interview Questions/03-04 Angry Customer about product and services.md",
-    "reinventing-youself/Interview Questions/03-03 Disagreement with Boss.md",
-    "reinventing-youself/Interview Questions/03-02 when you had a disagreement with a co-worker.md",
-    "reinventing-youself/Interview Questions/02 - Biggest Weakness.md",
-    "reinventing-youself/Interview Questions/01-03 - Common Difficult Technical Situations.md",
-    "reinventing-youself/Interview Questions/01-02 - Technical Difficult Situation 1.md",
-    "reinventing-youself/Interview Questions/01 - Technical Difficult Situation.md",
-    "List of Common Outage Reasons.md",
-    "Pasted image 20240521144204.png",
-    "reinventing-youself/Interview Questions.md",
-    "reinventing-youself/Interview Questions",
-    "building high performance teams/essence-of-leadership.jpg",
+    "Positions/Salads Accessibility Interview/Questions.md",
+    "Positions/Salads Accessibility Interview/With AI - Balance between technological solutions and human intervention.md",
+    "building high performance teams/02 - Deepening the Effectiveness of Core Agile Principles.md",
+    "Positions/Salads Accessibility Interview",
+    "building high performance teams/01 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+    "building high performance teams/Essence of Leadership in Building High Performing Teams.md",
+    "Weekly Diary/2024-06-02.md",
+    "Weekly Diary/2024-05-26.md",
+    "building high performance teams/03 - Deepening the effectiveness of six Scrum Principles.md",
+    "building high performance teams/Connecting Teams to Customers and reducing walls in between.md",
     "building high performance teams/Essence of Building High Performing Teams for Creative work such as Software Development.md",
+    "building high performance teams/essence-of-leadership.jpg",
     "building high performance teams/List of Topics.md",
-    "Positions/Bazaar voice/Heidrick & Struggles.md",
-    "building high performance teams/Word cloud for Agile Leadership.md",
-    "building high performance teams/Transforming Self and Leadership before Transforming Teams.md",
-    "building high performance teams/rough notes.md",
+    "Pasted image 20240521144204.png",
+    "Interview Questions/03-04 Angry Customer about product and services.md",
+    "Positions/highSpot/Interviews.md",
+    "Interview Questions/highspot-principles.md.md",
+    "Interview Questions/01-02 - Technical Difficult Situation 1.md",
+    "Interview Questions/01-03 - Common Difficult Technical Situations.md",
+    "Interview Questions/01-04 - Top Three Deep Tech Challenge At Scale.md",
+    "Interview Questions/02 - Biggest Weakness.md",
+    "Interview Questions/07 - If you have to build a competitor for PS how would you go about building it.md",
+    "Interview Questions/06 - How do you simplify Communication.md",
+    "Interview Questions/05 - Slack CTO - Acquisition proposal.md",
+    "Interview Questions/03-03 Disagreement with Boss.md",
+    "Interview Questions/03-02 When you had a disagreement with a co-worker..md",
+    "Weekly Diary",
+    "Interview Questions",
     "Positions/Pune Company",
     "Positions/highSpot",
     "Positions/Bazaar voice",

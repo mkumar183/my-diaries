@@ -1,4 +1,4 @@
-From ChatGPT: 
+From ChatGPT
 
 Based on the discussions we've had, it appears that your leadership style is characterized by a combination of several key traits and practices:
 
@@ -17,6 +17,7 @@ Based on the discussions we've had, it appears that your leadership style is cha
 
 Strengths:
 
+- My curiosity to learn and know systems is something which is my biggest strength both in my personal/spiritual life as well as my professional life. I do not stop asking questions until i get to the bottom of things. Sometimes these questions are seemingly simple however, i go ahead and ask. My teams have complemented 
 - Your passion for technology and innovation drives you to continuously seek improvements and solutions to enhance efficiency and drive growth.
 - Your empowerment and enablement approach fosters autonomy and ownership among your teams, leading to higher levels of engagement and productivity.
 - Your collaborative and inclusive leadership style promotes teamwork, creativity, and diverse perspectives, resulting in more effective problem-solving and decision-making.
@@ -38,9 +39,17 @@ My Strengths:
 - Strategic thinking, I provide thought leadership to my organisation 
 - i am very structured and organised (both as self management and towards my work and profession). 
 - Deep thinker. 
+
+
 My Weaknesses: 
 - I do not have a good sense of humor. 
 - Managing down is strength, Managing Up is something i am learning about by learning about leadership styles and how to navigate through different types of leaders without having to change myself.
 - In my career i did not have whole lot of customer interactions due to nature of businesses that i have worked upon. 
 - I am more strategic thinker than busy on tactical things which i love to deligate to my team and people. 
 - My Bias for Action is too low. So at times i end up taking too many initiatives. Though i review these periodically and make decisions quickly to cut down as needed but sometime this can overwhelm others in my team. To overcome this i have now started using 'Baking' state on my boards and unless i bake something for few days or even weeks i do not initiate it. 
+
+sidekick, squeue, crons, exports and import, server management.
+Google Jar Script Changes. Moodle Changes. Array Call. Wrote it to Google. Image upload stopped working. 
+
+Azure uploads wont work. Load balancers. Removed cron. 
+Image magic update had to be taken up. old versions. upgraded linuxes. 
