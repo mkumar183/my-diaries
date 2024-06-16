@@ -1,7 +1,7 @@
 # Cricket Teams as a Model for Cross-Functional Scrum Teams
 
 ![[Pasted image 20240614220825.png]]
-In my previous article, [Importance of Cross-Functional Teams](https://medium.com/@mkumar183/the-importance-of-building-cross-functional-teams-for-high-performing-agile-development-4a81ed764199), we explored the initial steps of envisioning your teams as **their own startups by structuring them as cross-functional units**. Today, let’s take that analogy further by analyzing how a cricket team, much like other sports teams, is organized and structured as a cross-functional team. This comparison can help us understand the benefits of cross-functional teams over skill-based structuring.
+In my previous article, [Importance of Cross-Functional Teams](https://medium.com/@mkumar183/the-importance-of-building-cross-functional-teams-for-high-performing-agile-development-4a81ed764199), we explored the initial steps of envisioning your teams as **their own startups by structuring them as cross-functional units**. Today, let’s take that analogy further by analyzing how a cricket team, much like other sports teams, is organized and structured as a cross-functional team with **highly cross skilled team players**. This comparison can help us understand the benefits of cross-functional teams over skill-based structuring.
 
 Cricket teams and scrum teams, despite their differences, serve as prime examples of how cross-functional collaboration can lead to success. Understanding the similarities between these groups sheds light on the importance of diverse roles, strong leadership, and cohesive teamwork. This article delves into the parallels between a cricket team and a scrum team, emphasizing the benefits of cross-functional teams and how they can be more effective than skill-based teams.
 ### Skills and Roles in a Cricket Team
@@ -61,6 +61,6 @@ The example of a cricket team illustrates how cross-functional teams are inheren
 
 Such teams, guided by strong leadership and effective collaboration, are better equipped to navigate challenges and achieve success. By embracing the principles of cross-functional teamwork, organizations can foster a more dynamic, efficient, and fulfilling work environment, ultimately leading to better outcomes and a thriving organization.
 
-In our next article, we will explore the challenges of creating cross-functional teams, such as defining scope and responsibilities, and determining the ideal team size for effective cross-functional collaboration.
+In our next article, we will explore the challenges of creating cross-functional teams, such as defining scope and responsibilities, and determining the ideal team size for effective cross-functional collaboration. We will discuss concepts of teams with I-shaped individuals vs. T-shaped and X-shaped individuals, and why a certain amount of cross-skilling within the team is essential for it to operate effectively and become a high-performing team.
 
 We'd love to hear from you! What are your experiences with cross-functional teams? Have you encountered any challenges or successes in implementing such structures in your organization? Share your thoughts and join the discussion in the comments below.
