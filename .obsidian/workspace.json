@@ -256,9 +256,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42ed4b5b9101a725",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "building high performance teams/SGY PE Charter (v3).pdf"
+              }
+            }
+          },
+          {
+            "id": "bcf176ee814f3fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "building high performance teams/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -324,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md",
+                "file": "building high performance teams/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +363,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md",
+                "file": "building high performance teams/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md"
+                "file": "building high performance teams/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md"
               }
             }
           }
@@ -386,10 +408,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8553b025896f554c",
+  "active": "bcf176ee814f3fb5",
   "lastOpenFiles": [
-    "building high performance teams/03 - Deepening the Effectiveness of Core Agile Principles.md",
     "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md",
+    "building high performance teams/SpotifyScaling.pdf",
+    "building high performance teams/SpotifyScaling.pdf.crdownload",
+    "Beyond-the-basics-of-scaling-agile-white-paper.pdf",
+    "building high performance teams/03 - Sizing and Creating Scope for Cross Functional High Performing Team.md",
+    "Pasted image 20240614220825.png",
+    "Pasted image 20240614220631.png",
+    "Pasted image 20240614220821.png",
+    "Pasted image 20240521144204.png",
+    "Pasted image 20240614220530.png",
+    "building high performance teams/03 - Deepening the Effectiveness of Core Agile Principles.md",
     "building high performance teams/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md",
     "building high performance teams/05 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
     "building high performance teams/rough notes.md",
@@ -415,16 +446,10 @@
     "reinventing-youself/01-the-goal.md",
     "Positions/Salads Accessibility Interview",
     "building high performance teams/03 - Deepening the effectiveness of six Scrum Principles.md",
-    "Pasted image 20240521144204.png",
     "Interview Questions/03-04 Angry Customer about product and services.md",
     "Positions/highSpot/Interviews.md",
-    "Interview Questions/highspot-principles.md.md",
-    "Interview Questions/01-02 - Technical Difficult Situation 1.md",
     "Weekly Diary",
     "Interview Questions",
-    "Positions/Pune Company",
-    "Positions/highSpot",
-    "Positions/Bazaar voice",
-    "Positions"
+    "Positions/Pune Company"
   ]
 }
