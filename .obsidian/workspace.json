@@ -8,142 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8219b8eba733139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/05 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2dc4d75840cc790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/Word cloud for Agile Leadership.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6c15d6c55a6b33e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/05 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73e6dc50d68f9d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/05 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75b06fe0671cc9fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/05 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc48b0cfaf7a471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/Word cloud for Agile Leadership.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef65d1576d3e76c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/Random Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cf8b8a3673f9452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/Word cloud for Agile Leadership.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "178f2c071a6f32a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/List of Topics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ec1f20117d1bc5c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Interview Questions/highspot-principles.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe3f9fd5f16d38a1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "building high performance teams/essence-of-leadership.jpg"
-              }
-            }
-          },
-          {
-            "id": "4b863a2559c9232f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/Essence of Leadership in Building High Performing Teams.md",
                 "mode": "source",
                 "source": false
               }
@@ -232,55 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d3dd62e7429972f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/Essence of Leadership in Building High Performing Teams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8553b025896f554c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42ed4b5b9101a725",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "building high performance teams/SGY PE Charter (v3).pdf"
-              }
-            }
-          },
-          {
-            "id": "bcf176ee814f3fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -346,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md",
+                "file": "Interview Questions/05 - Slack CTO - Acquisition proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md",
+                "file": "Interview Questions/05 - Slack CTO - Acquisition proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -386,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md"
+                "file": "Interview Questions/05 - Slack CTO - Acquisition proposal.md"
               }
             }
           }
@@ -408,10 +232,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bcf176ee814f3fb5",
+  "active": "7cc7fff2d90928f7",
   "lastOpenFiles": [
-    "building high performance teams/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md",
     "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.md",
+    "building high performance teams/refined-articles-chatgpt/02 - Cricket Team as an Example of Cross Functional Team.md",
+    "building high performance teams/refined-articles-chatgpt/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md",
+    "building high performance teams/refined-articles-chatgpt",
+    "building high performance teams/raw-articles/Word cloud for Agile Leadership.md",
+    "building high performance teams/raw-articles/Understanding Cross Functional Teams via structure of a Cricket Teams.md",
+    "building high performance teams/raw-articles/Transforming Self and Leadership before Transforming Teams.md",
+    "building high performance teams/raw-articles/SpotifyScaling.pdf",
+    "building high performance teams/raw-articles/SGY PE Charter (v3).pdf",
+    "building high performance teams/raw-articles/rough notes.md",
+    "building high performance teams/raw-articles/Random Notes.md",
+    "building high performance teams/raw-articles/List of Topics.md",
+    "building high performance teams/raw-articles/essence-of-leadership.jpg",
+    "building high performance teams/raw-articles/Essence of Leadership in Building High Performing Teams.md",
+    "building high performance teams/raw-articles/Essence of Building High Performing Teams for Creative work such as Software Development.md",
+    "building high performance teams/raw-articles/Dev Charter - version 2.pdf",
+    "building high performance teams/raw-articles/Connecting Teams to Customers and reducing walls in between.md",
+    "building high performance teams/raw-articles/05 - What Leadership qualities and principles are essential for building high performing Agile teams for Software Applications.md",
+    "building high performance teams/raw-articles/03 - Sizing and Creating Scope for Cross Functional High Performing Team.md",
+    "building high performance teams/raw-articles/03 - Deepening the effectiveness of six Scrum Principles.md",
+    "building high performance teams/raw-articles/03 - Deepening the Effectiveness of Core Agile Principles.md",
+    "building high performance teams/raw-articles/02 Role of Leadership in Building High Performance TEams.md",
+    "building high performance teams/raw-articles",
+    "building high performance teams/raw-articles.md",
+    "building high performance teams/02 Role of Leadership in Building High Performance TEams.md",
+    "building high performance teams/02 Role of Leadership in Building High Performance TEams",
+    "building high performance teams/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md",
     "building high performance teams/SpotifyScaling.pdf",
     "building high performance teams/SpotifyScaling.pdf.crdownload",
     "Beyond-the-basics-of-scaling-agile-white-paper.pdf",
@@ -426,30 +275,7 @@
     "building high performance teams/rough notes.md",
     "building high performance teams/Understanding Cross Functional Teams via structure of a Cricket Teams.md",
     "building high performance teams/Connecting Teams to Customers and reducing walls in between.md",
-    "Positions/Applied Systems.md",
-    "building high performance teams/Transforming Self and Leadership before Transforming Teams.md",
     "building high performance teams/SGY PE Charter (v3).pdf",
-    "building high performance teams/Random Notes.md",
-    "building high performance teams/List of Topics.md",
-    "building high performance teams/essence-of-leadership.jpg",
-    "building high performance teams/Essence of Leadership in Building High Performing Teams.md",
-    "building high performance teams/Essence of Building High Performing Teams for Creative work such as Software Development.md",
-    "building high performance teams/Dev Charter - version 2.pdf",
-    "building high performance teams/New folder",
-    "reinventing-youself/01 - About Myself.md",
-    "reinventing-youself/01 - Myself.md",
-    "Weekly Diary/2024-06-09.md",
-    "Weekly Diary/2024-06-02.md",
-    "Weekly Diary/2024-05-26.md",
-    "Positions/Salads Accessibility Interview/Questions.md",
-    "Positions/Salads Accessibility Interview/With AI - Balance between technological solutions and human intervention.md",
-    "reinventing-youself/01-the-goal.md",
-    "Positions/Salads Accessibility Interview",
-    "building high performance teams/03 - Deepening the effectiveness of six Scrum Principles.md",
-    "Interview Questions/03-04 Angry Customer about product and services.md",
-    "Positions/highSpot/Interviews.md",
-    "Weekly Diary",
-    "Interview Questions",
-    "Positions/Pune Company"
+    "building high performance teams/essence-of-leadership.jpg"
   ]
 }

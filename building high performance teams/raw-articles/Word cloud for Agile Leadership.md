@@ -122,3 +122,4 @@ Fail Fast. Get Product out faster. Get right product faster.
 psychological safety 
 
 https://lucid.co/blog/traditional-vs-agile-leadership
+
