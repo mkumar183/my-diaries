@@ -10,6 +10,12 @@ STAR :
 https://powerschoolgroup.atlassian.net/wiki/spaces/PESE/pages/39082558757/2021-06-13+-+PE-95183+PE-94541+PE-95363+-+Miami-Dade+Import+Slowness
 https://powerschoolgroup.atlassian.net/wiki/spaces/PESE/pages/39082561790/SPIKE+Miami+Dade+Investigate+Error+Could+not+establish+a+connection+to+SFTP+Server
 
+- Changing from php older version to newer version. Switching over to serverless technology. 
+- Switching from MSSQL to Snowflake. Switching from Azure to AWS. 
+- Monitoring of ETLs has become very challenging. So I got APIs developed for ETL Statuses and brought these over to a single system using python programs 
+- Reporting functionality in Kickboard had to be developed and there were several challenges. We picked up AWS Batch for it and we made it success. 
+- SIS Sync was very challenging. We planned it behind feature flags so we were able to control the deployment. 
+
 I deal with systems where availability requirements are 99.9%. Any kind of outage of the system is reported as a P0. I have dealt with systems of different nature. E.g. Schoology is a multi-tenant system. Which means it uses single instances of servers across all its customers large, medium and small. Its a very complex system with 30+microservices and using many different types of technologies. Very heavy AWS based system. The core of this application is built in PHP Drupal. 
 
 Integration Team was handed over to me to manage which deals mostly with data sync across different products. This product has two solutions. SiS Adapter which is based on SQS, Step Function and Lambda architecture. However, Auto Import system was old and it was for file based customers. (customers who upload their files to FTP location and from where we pick the data and load data into our system). 

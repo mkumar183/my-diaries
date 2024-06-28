@@ -4,4 +4,4 @@ Being far away from customers, my understanding of customer pain points and busi
 
 At times i get too much into details and that drifts me away from larger problems.
 
-At times i start too many initiatives. 
+At times i start too many initiatives.

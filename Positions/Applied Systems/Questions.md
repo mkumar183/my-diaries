@@ -1,0 +1,4 @@
+- What is the roadmap for India Office. 
+- What are the challenges that i will face in expanding this office. How is the outlook of India in minds of people in other regions. 
+- Do they foresee some teams being created with full autonomy and ownership from India including all functions in India ? 
+- What are the opportunities and challenges for me. 
