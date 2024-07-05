@@ -70,9 +70,11 @@ Today i am not afraid of making mistakes however, i make many smaller mistakes a
 Example of building logi currently. GA. 
 
 10. Describe a situation where you had to work with a difficult coworker.
-- Product partner. Authoritative, traditional style. Experience in managing smaller projects. 
-- Centralized approach while mine is decentralized 
-- Averse to change 
+- Product partner. 
+	- Centralized approach vs Decentralized Approach of management. 
+	- My approach Authoritative, traditional style. Experience in managing smaller projects. 
+	- Centralized approach while mine is decentralized 
+	- Averse to change 
 How did I solve: 
 - Initially faced huge resistance. But also support from my immediate manager. 
 - Established trust with small changes 

@@ -37,7 +37,6 @@ Ability to bring together diverse skills and experiences towards a common goal.
 Creating synergies among team members and encouraging innovation.
 Proven track record of building exceptional teams and fostering a culture of excellence and innovation.
 
-
 # Three Areas of Excellence
 
 ## Technology
@@ -49,9 +48,7 @@ Under the umbrella of engineering culture, my passion lies in fostering environm
 ## Mindfulness
 With two decades of experience as a yoga and meditation practitioner, I bring a unique perspective to leadership and team dynamics. This background has equipped me with a deep understanding of human psychology, enabling me to foster an environment of mindfulness, resilience, and emotional intelligence. I believe that nurturing the human aspect of teams is key to unlocking their full potential, leading to the creation of synergies among team members and the cultivation of a culture of excellence and innovation.
 
-
 # High-Performance Teams: My Core Passion
-
 My primary passion revolves around building high-performance teams. My success in this area stems from a comprehensive skill set and experience across three broad areas:
 
 ## Key Areas of Expertise
@@ -95,3 +92,4 @@ I am deeply passionate about building high-performance teams, specializing in ag
 **Engineering Culture**: My focus is on cultivating an engineering culture characterized by high empowerment and trust. I've implemented best practices such as "leave it better," clean coding, and test-driven development, alongside advanced CICD features, feature flags, and a DevOps mindset, all underscored by a strong emphasis on system observability.
 
 **Mindfulness**: The unique third dimension of my approach is influenced by my extensive practice in yoga and meditation. This practice not only aligns personal with organizational purposes, enhancing our sense of purpose and thereby our performance, but also deepens my understanding of human psychology. This insight is crucial in fostering an environment of mindfulness, resilience, emotional intelligence, and dynamic team interactions.
+
