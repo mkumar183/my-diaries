@@ -14,6 +14,6 @@ Sunset of Haiku Learning. (Taking it till the end with migration of all customer
 
 2022-24: 
 Hoonuit assimilation and expansion in India. 
-Major projects like Assessments Automation, Snowflake Automation. 
+Major projects like Assessments Automation, Snowflake Migration. 
 Strategic initiatives such as dividing teams and ownership by Components across Hoonuit. 
 ChatGPT Innovations and 

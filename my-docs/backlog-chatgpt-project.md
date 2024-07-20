@@ -13,7 +13,6 @@ How to measure and improve performance of the team:
 - how much team is contributing in confluence improving the components that team owns 
 
 
-
 Pending:
 
 Assign components automatically to new tickets 
