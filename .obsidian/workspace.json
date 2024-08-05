@@ -1,136 +1,39 @@
 {
   "main": {
-    "id": "e7f7c4c5323d4977",
+    "id": "188508bc49719717",
     "type": "split",
     "children": [
       {
-        "id": "d0b84d85a8748bf8",
+        "id": "6d42afc498e4c0d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1f20117d1bc5c5",
+            "id": "909bb620073efaf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Questions/highspot-principles.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e7dcf67519c9248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions/01 - Technical Difficult Situation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ae2863974bf5e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions/01 - Technical Difficult Situation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e904908b946d648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions/01 - Technical Difficult Situation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6e33b570bedcf6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions/01 - Technical Difficult Situation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "554758246698447b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Questions/03 Talk about a time when you handled a conflict.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12dc778090327476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reinventing-youself/one-min-pitch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5d8813ce943b115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly Diary/2024-07-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cc7fff2d90928f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "building high performance teams/refined-articles-chatgpt/Unlocking Potential of Cross Functional Agile Teams Through Cross-Skilling.md",
+                "file": "building high performance teams/refined-articles-chatgpt/04 - Scaling Agile Teams for larger projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9ef94add0858ca61",
+    "id": "14ab774194b157a8",
     "type": "split",
     "children": [
       {
-        "id": "a7ab6a885a3a0808",
+        "id": "62bb440f7d1fcc45",
         "type": "tabs",
         "children": [
           {
-            "id": "53effc9287816fe8",
+            "id": "7a6bacbd0262055a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -140,12 +43,12 @@
             }
           },
           {
-            "id": "940160f7c6d69443",
+            "id": "3321a58c75b4e5bf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "weak",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +58,7 @@
             }
           },
           {
-            "id": "dce1cbbb7906b774",
+            "id": "3d7877143a816eb7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -166,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 499.5
   },
   "right": {
-    "id": "1b7e55ce182467b4",
+    "id": "0ac0319257897b6c",
     "type": "split",
     "children": [
       {
-        "id": "8eed0191f604b96a",
+        "id": "932fda99d0bea856",
         "type": "tabs",
         "children": [
           {
-            "id": "22d18fdfaf41eae7",
+            "id": "0fb948a9449c31b0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Diary/2024-07-14.md",
+                "file": "building high performance teams/refined-articles-chatgpt/04 - Scaling Agile Teams for larger projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,19 +97,19 @@
             }
           },
           {
-            "id": "d6e303653f7d9b11",
+            "id": "6207e613e05e1357",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Diary/2024-07-14.md",
+                "file": "building high performance teams/refined-articles-chatgpt/04 - Scaling Agile Teams for larger projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "59423860b72e0360",
+            "id": "aa8b250e93fc0d13",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -217,12 +120,12 @@
             }
           },
           {
-            "id": "94895b92b49a5ff4",
+            "id": "e2c10770f98de198",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Diary/2024-07-14.md"
+                "file": "building high performance teams/refined-articles-chatgpt/04 - Scaling Agile Teams for larger projects.md"
               }
             }
           }
@@ -230,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -244,14 +147,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c5d8813ce943b115",
+  "active": "909bb620073efaf4",
   "lastOpenFiles": [
+    "04 - Scaling Agile Teams and Setting Team Charters A Deep Dive.pdf",
+    "building high performance teams/refined-articles-chatgpt/Unlocking Potential of Cross Functional Agile Teams Through Cross-Skilling.md",
+    "Managing Self Diary/How to Cultivate Habit of Being in the Present Moment.md",
+    "Sunday Children Satsanga/2024-08-04.md.md",
+    "2024-08-04.md-ss.pdf",
+    "building high performance teams/refined-articles-chatgpt/04 - Scaling Agile Teams for larger projects.md",
     "building high performance teams/raw-articles/Scaling the Agile Teams and Setting Team Charters.md",
-    "building high performance teams/raw-articles/SpotifyScaling.pdf",
-    "building high performance teams/raw-articles/Tips for coaching Engineering Manager.md",
-    "building high performance teams/raw-articles/Word cloud for Agile Leadership.md",
-    "building high performance teams/raw-articles/Transforming Self and Leadership before Transforming Teams.md",
     "building high performance teams/raw-articles/SGY PE Charter (v3).pdf",
+    "building high performance teams/raw-articles/SpotifyScaling.pdf",
+    "building high performance teams/raw-articles/Essence of Building High Performing Teams for Creative work such as Software Development.md",
+    "building high performance teams/raw-articles/Connecting Teams to Customers and reducing walls in between.md",
+    "building high performance teams/raw-articles/03 - Sizing and Creating Scope for Cross Functional High Performing Team.md",
+    "Sunday Children Satsanga/preparing-for-children-satsanga.md",
+    "Sunday Children Satsanga",
+    "70 Questions.pdf",
+    "building high performance teams/raw-articles/Tips for coaching Engineering Manager.md",
+    "building high performance teams/raw-articles/Transforming Self and Leadership before Transforming Teams.md",
+    "building high performance teams/raw-articles/Word cloud for Agile Leadership.md",
     "building high performance teams/raw-articles/rough notes.md",
     "building high performance teams/raw-articles/Role of an Architect.md",
     "building high performance teams/raw-articles/Random Notes.md",
@@ -259,37 +174,26 @@
     "building high performance teams/raw-articles/List of Topics.md",
     "building high performance teams/raw-articles/essence-of-leadership.jpg",
     "building high performance teams/raw-articles/Essence of Leadership in Building High Performing Teams.md",
-    "building high performance teams/raw-articles/Essence of Building High Performing Teams for Creative work such as Software Development.md",
-    "building high performance teams/raw-articles/02 - Understanding Cross Functional Teams via structure of a Cricket Teams.md",
-    "building high performance teams/raw-articles/Connecting Teams to Customers and reducing walls in between.md",
-    "Interview Questions/70 Interview Questions.md",
-    "2024-07-17.md",
-    "othello-q1-q2-accomplishments.md.txt",
-    "Weekly Diary/2024-05-26.md",
-    "Weekly Diary/2024-06-28.md",
-    "Weekly Diary/2024-07-14.md",
-    "Weekly Diary/aws-kendra.png",
-    "70 Interview Questions.pdf",
-    "Beyond-the-basics-of-scaling-agile-white-paper.pdf",
-    "Pasted image 20240521144204.png",
+    "building high performance teams/raw-articles/Dev Charter - version 2.pdf",
+    "building high performance teams/raw-articles/03 - Deepening the Effectiveness of Core Agile Principles.md",
+    "building high performance teams/refined-articles-chatgpt/01 - Published - The Importance of Building Cross-Functional Teams for High-Performing Agile Development.md",
+    "building high performance teams/refined-articles-chatgpt/02 - Cricket Team as a Cross Functional Team.md",
+    "building high performance teams/refined-articles-chatgpt/02 - Cricket Team as an Example of Cross Functional Team - Gemini.md",
+    "Managing Self Diary/Weekly Diary/2024-07-28.md",
+    "Managing Self Diary/Daily Diary/2024-07-24.md",
+    "Weekly Diary - Office/2024-07-31.md",
     "Pasted image 20240614220825.png",
+    "Beyond-the-basics-of-scaling-agile-white-paper.pdf",
+    "Managing Self Diary/Thoughts",
+    "Managing Self Diary/Weekly Diary",
+    "Managing Self Diary/Daily Diary",
+    "Pasted image 20240721001349.png",
+    "Pasted image 20240721001307.png",
+    "Pasted image 20240721000818.png",
+    "Pasted image 20240721000739.png",
     "Pasted image 20240617074758.png",
-    "preparing-for-children-satsanga.md",
-    "Interview Questions/What you did that has longest impact on company..md",
-    "building high performance teams/Unlocking Potential of Cross Functional Agile Teams Through Cross-Skilling.pdf",
-    "building high performance teams/SpotifyScaling.pdf",
-    "building high performance teams/SpotifyScaling.pdf.crdownload",
-    "reinventing-youself/one-min-pitch.md",
-    "reinventing-youself/01 - Myself.md",
-    "reinventing-youself/01 - About Myself.md",
-    "Positions/Bazaar voice/Heidrick & Struggles.md",
-    "Positions/Applied Systems/tech.net.md",
-    "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.pdf",
-    "Weekly Diary/image.png",
-    "building high performance teams/Cross-Skilling.pdf",
-    "building high performance teams/I-T-X-Shaped.JPG",
-    "building high performance teams/I-shaped Teams.JPG",
-    "Pasted image 20240614220631.png",
-    "Pasted image 20240614220821.png"
+    "Pasted image 20240521144204.png",
+    "building high performance teams/archive/who-serves-your-customers.JPG",
+    "building high performance teams/I-T-X-Shaped.JPG"
   ]
 }

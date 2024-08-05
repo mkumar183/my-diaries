@@ -20,6 +20,7 @@ Strengths:
 - My highest strength is my Integrity and honesty, over loyalty. Though i have been with same people for a long period of time, I am very proud to say that i have never done anything to please any of my boss. In fact, this has created many problems for me as well since people have viewed me at times someone who is difficult to work with. I have done things that i knew were against the wishes of my higher ups and I have continued to do it despite getting flaks and not appreciations for the same. 
 - I have survived because my leaders are forced to know that they have to trust me and they do have consciousness. Schoology hiring is one example. Not succumbing to PowerScore. Back to Office. I kept of fighting for it. Though I was the one who returned back to office but i kept on fighting for flexibility to my people. One example is where CTO wanted to move me to Unified Insight team back, however, when my to be immediate manager took feedback about me from several leaders, he got some negative from one of the person who is very crucial. Our VP of product. 
 - Somehow he had interpreted me wrong in my short duration of working with me. He gave some feedback. Then he talked to several more people and somehow he did not have great choice either also he got assuring feedback from others. Since i have joined this team, he has loved working with me. Even my product VP, he does not say it outwardly, i know he is very happy with the progress we have made in last 1-2 years. I have challenged many many things and changed these. 
+
 from chatgpt:
 Certainly! Here's a refined version of your statement:
 
@@ -29,8 +30,6 @@ My greatest strength is my integrity and honesty, even over loyalty. Despite lon
 I have persisted because my leaders have come to trust me, recognizing my commitment to the organization's best interests. For example, during the Schoology hiring process, I stood firm on my principles. I also advocated for employee flexibility during the "Back to Office" transition, even though I returned to the office myself. Additionally, when the CTO wanted to move me to the Unified Insight team, my prospective manager received mixed feedback, including negative input from a crucial VP of Product due to a brief misunderstanding.
 
 However, after gathering more feedback and getting reassurance from other leaders, I was brought onto the team. Since joining, my work has positively impacted the team and even the initially skeptical VP of Product, who has expressed satisfaction with our progress over the past 1-2 years. I have challenged and changed numerous processes for the better, earning respect and demonstrating the value of integrity and perseverance.
-
-
 
 - My curiosity to learn and know systems is something which is my biggest strength both in my personal/spiritual life as well as my professional life. I do not stop asking questions until i get to the bottom of things. Sometimes these questions are seemingly simple however, i go ahead and ask. My teams have complemented 
 - Your passion for technology and innovation drives you to continuously seek improvements and solutions to enhance efficiency and drive growth.

@@ -1,12 +1,5 @@
 Specific Incidence. 
 Time bound : Under Pressure Situation 
-
-STAR : 
-- Situation: Outages 
-- Task
-- Action 
-- Result 
-
 https://powerschoolgroup.atlassian.net/wiki/spaces/PESE/pages/39082558757/2021-06-13+-+PE-95183+PE-94541+PE-95363+-+Miami-Dade+Import+Slowness
 https://powerschoolgroup.atlassian.net/wiki/spaces/PESE/pages/39082561790/SPIKE+Miami+Dade+Investigate+Error+Could+not+establish+a+connection+to+SFTP+Server
 
