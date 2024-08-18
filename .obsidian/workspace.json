@@ -11,11 +11,9 @@
             "id": "909bb620073efaf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Weekly Diary - Office/02-strategic-goals-priorities.md",
-                "mode": "source",
-                "source": false
+                "file": "Scaling the Agile Teams for Large Products.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Diary - Office/02-strategic-goals-priorities.md",
+                "file": "Scaling the Agile Teams for Large Products.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Diary - Office/02-strategic-goals-priorities.md",
+                "file": "Scaling the Agile Teams for Large Products.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Diary - Office/02-strategic-goals-priorities.md"
+                "file": "Scaling the Agile Teams for Large Products.pdf"
               }
             }
           }
@@ -147,50 +145,50 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7a6bacbd0262055a",
+  "active": "909bb620073efaf4",
   "lastOpenFiles": [
-    "Weekly Diary - Office/Discussions with Chad.md",
-    "Sunday Children Satsanga/2024-08-17.md.md",
-    "Sunday Children Satsanga/2024-08-04.md.md",
-    "building high performance teams/raw-articles/Scaling the Agile Teams for Large Products.md",
+    "Beyond-the-basics-of-scaling-agile-white-paper.pdf",
+    "70 Questions.pdf",
+    "2024-08-04.md-ss.pdf",
+    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Technical Difficult Situation.md",
+    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Biggest Weakness & Failures.md",
+    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Biggest Strength.md",
+    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Biggest Failures.md",
+    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Biggest Accomplishments.md",
+    "02 - writings/Quotes/Communication.md",
+    "01 - Diary Profession/Discussions with Chad.md",
+    "01 - Diary Profession/05-accomplishments-2023.md",
+    "01 - Diary Profession/02-strategic-goals-priorities.md",
+    "02 - writings/building high performance teams/Tips for Writing Technical Articles.md",
+    "02 - writings",
+    "99 - archive/my-docs/backlog-chatgpt-project.md",
+    "99 - archive/my-docs/Meeting Notes/notes-sujit.md",
+    "99 - archive/my-docs/Meeting Notes/meetings-with-devendra.md",
+    "99 - archive/my-docs/Meeting Notes/meeting-with-hardeep.md",
+    "03 - Sunday Children Satsanga/2024-08-17.md.md",
+    "03 - Sunday Children Satsanga/2024-08-04.md.md",
+    "02 - writings/building high performance teams/raw-articles/Scaling the Agile Teams for Large Products.md",
     "Pasted image 20240817182746.png",
     "Pasted image 20240817182609.png",
     "Pasted image 20240817181635.png",
-    "building high performance teams/SpotifyScaling.pdf",
+    "02 - writings/building high performance teams/SpotifyScaling.pdf",
     "Tips for Writing Technical Articles.pdf",
     "04 - Scaling Agile Teams and Setting Team Charters A Deep Dive.pdf",
     "Scaling the Agile Teams for Large Products.pdf",
-    "Beyond-the-basics-of-scaling-agile-white-paper.pdf",
-    "reinventing-youself/Strength and Weakness - Successes and Failures.md",
-    "reinventing-youself/The-goal.md",
-    "reinventing-youself/Reflection.md",
-    "my-docs/Tips for Writing Technical Articles.md",
-    "building high performance teams/raw-articles/essence-of-leadership.jpg",
-    "building high performance teams/raw-articles/Essence of Leadership in Building High Performing Teams.md",
-    "building high performance teams/raw-articles/Essence of Building High Performing Teams for Creative work such as Software Development.md",
-    "building high performance teams/raw-articles/Dev Charter - version 2.pdf",
-    "building high performance teams/raw-articles/Connecting Teams to Customers and reducing walls in between.md",
-    "building high performance teams/raw-articles/04 - Integrity vs Performance.md",
-    "building high performance teams/raw-articles/03 - Sizing and Creating Scope for Cross Functional High Performing Team.md",
-    "Quotes/Communication.md",
-    "Quotes/Diff bw Spiritual and Material.md",
-    "reinventing-youself/One-min-pitch.md",
-    "reinventing-youself/Engineering Habits.md",
-    "Managing Self Diary/Thoughts/Twelve Contemplations.md",
-    "Managing Self Diary/Weekly Diary/2024-07-28.md",
-    "Managing Self Diary/Daily Diary/2024-07-24.md",
-    "Weekly Diary - Office/2024-08-18.md",
-    "Weekly Diary - Office/2024-07-31.md",
-    "Quotes/Integrity and Corruption.md",
-    "Quotes",
-    "building high performance teams/raw-articles/rough notes.md",
-    "building high performance teams/raw-articles/Role of an Architect.md",
-    "building high performance teams/raw-articles/Random Notes.md",
-    "building high performance teams/Unlocking Potential of Cross Functional Agile Teams Through Cross-Skilling.pdf",
-    "building high performance teams/I-T-X-Shaped.JPG",
-    "building high performance teams/I-shaped Teams.JPG",
-    "building high performance teams/Cross-Skilling.pdf",
-    "building high performance teams/02 - Cricket Team as an Example of Cross Functional Team.pdf",
+    "01 - Diary Profession/reinventing-youself/Strength and Weakness - Successes and Failures.md",
+    "01 - Diary Profession/reinventing-youself/The-goal.md",
+    "01 - Diary Profession/reinventing-youself/Reflection.md",
+    "02 - writings/building high performance teams/raw-articles/essence-of-leadership.jpg",
+    "02 - writings/building high performance teams/raw-articles/Essence of Leadership in Building High Performing Teams.md",
+    "02 - writings/building high performance teams/raw-articles/Essence of Building High Performing Teams for Creative work such as Software Development.md",
+    "02 - writings/building high performance teams/raw-articles/Dev Charter - version 2.pdf",
+    "02 - writings/building high performance teams/raw-articles/Connecting Teams to Customers and reducing walls in between.md",
+    "02 - writings/building high performance teams/raw-articles/04 - Integrity vs Performance.md",
+    "02 - writings/building high performance teams/raw-articles/03 - Sizing and Creating Scope for Cross Functional High Performing Team.md",
+    "02 - writings/Quotes",
+    "02 - writings/building high performance teams/Unlocking Potential of Cross Functional Agile Teams Through Cross-Skilling.pdf",
+    "02 - writings/building high performance teams/I-T-X-Shaped.JPG",
+    "02 - writings/building high performance teams/I-shaped Teams.JPG",
     "Pasted image 20240614220825.png",
     "Pasted image 20240721001349.png",
     "Pasted image 20240721001307.png",
