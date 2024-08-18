@@ -1,12 +1,23 @@
 ### Introduction
 In previous articles, we delved into the significance of cross-functional teams and how cross-skilling can empower teams to deliver independently. These building blocks are essential for agile success. However, as products and services evolve, organizations often face the challenge of scaling Agile practices to accommodate growing teams and increasing complexity.
 
-This article explores the strategies and challenges of scaling Agile. We'll examine how to maintain agility and productivity as teams expand, while ensuring alignment and collaboration. By understanding the core principles of Agile and exploring frameworks like the Spotify Model, we'll provide practical guidance for organizations seeking to scale their Agile initiatives effectively.
+This article explores the strategies and challenges of scaling Agile for large products. We'll examine how to maintain agility and productivity as teams expand, while ensuring alignment and collaboration. By understanding the core principles of Agile and exploring frameworks like the Spotify Model, we'll provide practical guidance for organizations seeking to scale their Agile initiatives effectively.
 
 Our focus will be on identifying key factors, such as team charters, leadership roles, and organizational culture, that contribute to successful Agile scaling. We'll also discuss the importance of continuous improvement and adaptability in navigating the evolving landscape of Agile practices.
 
+### Challenges of Scale
+As the products scale from few thousand users to millions or billions of users and as the list of features and business rules a product support expands larger teams are needed to support upkeep of the products. Products such as Microsoft Office, Apple IOS, Netflix, Uber, Spotify, Youtube and so on are examples that started as small projects however, as these products became success their footprints grew and larger teams were needed to scale these products. 
 
-Requirements of Agility at Scale: 
+There are also significant number of products which could not keep up with the scale and died sooner in their life and end up causing lot of financial troubles to their organizations. There are examples like Orkut, MySpace, Yahoo, Netscape, Blackberry and many more. These are the platforms that could not scale themselves and competition has eaten them out. 
+
+#### Following are the challenges organizations face as they try to scale: 
+1. As the products mature, technologies evolve. And these products need to adapt to newer technology patterns. e.g. for a product to grow horizontally in terms of features it supports it may need to be refactored into multiple microservices. This is a scaling challenge. Since organizations not only need to add new features as per the demand of the market, they also need to refactor at the same time so that new features can be added. 
+2. As the products scale, complexity of the software increases. This leads to reduction in productivity. This is a scaling challenge and organizations cannot solve it simply by adding more people into it. In fact, sometimes adding more people and writing more lines of code can be counterproductive. What the product needs is simplification. Which requires scaling mindset. 
+3. More automation. As the product feature list grows and in case these features are too much intertwined then need of automation increases. Since a small change can bring down the whole system or cause an outage. This can reduce the speed at which new features can be developed in case sufficient automation is not in place. Often such work is not part of the roadmap and since leaders are running behind new features such enhancements to infrastructure improvements are kept on back burner causing significant delays and slowness in delivering new features. 
+
+
+
+
 True agile at scale is when there are many teams working on a single product however each team can independently do following: 
 - Teams can operate as autonomously as possible. 
 - Teams have a clear mission. e.g. to improve customer experience in certain sub-domain of the product. 

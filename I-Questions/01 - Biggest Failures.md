@@ -1,0 +1,8 @@
+- Tried startups 2 Times in my career and failed. 
+- Proposed and build Auto Accounting Engine and then shelved it 
+- Proposed and build in-house a metric builder application and then shelved it 
+- Tried too many changes at the same time and got good amount of resistance from many people so i had to slow down and consolidate to few high impact initiatives (e.g. i was trying to change processes, slack organization, meetings setup etc.)
+- Built a small application in streamlit and then shelved it (it was for internal use)
+- Implemented incremental ETL logic and framework which was reversed later on by Architecture team by Talend. 
+- Hired two engineers in hurry and later it did not work out. 
+- 

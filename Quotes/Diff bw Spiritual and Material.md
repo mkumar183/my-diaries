@@ -1,0 +1,1 @@
+Difference between being spiritualistic or materialist is as simple being focused on selfish material gains vs doing or sacrificing personal gains for bringing good to others. 

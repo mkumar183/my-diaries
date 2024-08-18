@@ -3,21 +3,35 @@ We are frequently dwelling in past and dreaming in future. Our thoughts most oft
 Being in the present moment is a skill and it can be formed as a habit. Which means this is something which is not esoteric or mystic but something tangible you can learn and achieve with practice. 
 
 Changes in basic Attitudes that will help:
-1. Accept the present as a Sumtotal of all your past actions 
-2. Have gratitude for what all is available to you 
-3. Focus on changing yourself than criticizing others or trying to wrestle with others 
-4. Cultivate faith in God and get rid of worries of future 
+### Accept the present 
+as a Sumtotal of all your past actions 
+### Have gratitude 
+for what all is available to you 
 
-Few Actions that can help you cultivate: 
-- Meditate more and improve your self awareness 
-	- Interiorize -> Concentrate on a concept of God -> Merge in that thought. Let your consciousness become that concept. 
+### Focus on changing yourself 
+than criticizing others or trying to wrestle with others 
+
+### Cultivate faith in God (Or You as higher being)
+And get rid of worries of future 
+
+### Practice Presence of Higher Self (God)
+
+## Actionables: 
+#### Watch your breath 
+And improve your self awareness. Interiorize -> Concentrate on a concept of God -> Merge in that thought. Let your consciousness become that concept. 
+#### Thought Management 
+- Contain your thoughts with space and time 
 - Be aware of your thoughts and learn to manage these: Think or debate to solve something not uselessly dreaming. Write down your thoughts and see what you can change about yourself 
 - Contain your consciousness and thoughts within confined circle of space and time 
-- Make yourself busy in actions 
+#### Plan for future, Set Goals but then immerse in actions 
 - Be more breath and inner body conscious. Interiorize your attention frequently. 
-- Feel pleasure in solitude 
-- Avoid gossiping (unnecessary socializing), TV, social media. 
-- Socialize with a purpose 
-- Whenever you get worrisome thoughts, take your attention to kutastha and bring God in your consciousness. Know that all will be handled well. 
-- Let go of control and be on a cruize 
 
+#### Learn to spend time with yourself 
+Feel pleasure in solitude 
+
+#### Socialize with a purpose 
+
+#### Instead of aimlessly thinking, take a topic and write about it 
+### Don'ts 
+- Avoid gossiping (unnecessary socializing), TV, social media. 
+- Avoid watching TV especially long series 

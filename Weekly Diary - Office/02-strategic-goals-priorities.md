@@ -1,3 +1,27 @@
+Priorities Aug-2024 Onwards: 
+- Focus on what will you show case to Devendra in his next visit 
+- What will you write in your upcoming 2024 Review as what are your accomplishments. 
+- Discuss with Chad and have your goals in writing very clear and focus area 
+- 
+
+
+Reflection: What has worked best for you and what has not.
+- Cross functional Relationships: Shanat, Scott, Su, Apoorav 
+- Clarity of goals and role 
+- Being nice with your people being very focused and goal oriented and being fair to them. 
+
+What has not:
+- Going above and beyond your role and trying to do good things for UIHN  
+- 
+
+What's your new strategy:
+- Support Vimal positively. Praise his efforts. Do not go beyond your role though. Do what is within your role.
+- Continue to strengthen relationships across (Devon, Su, Maltesh, Shanat, Apoorav)
+- Ask for role and goals from Chad very clearly
+- Be positive and just do what is required
+
+
+
 ## Top Priorities: 
 ### 1. Deliver High Innovation from India (Nitin, Gaurav and Shemeem) 
     1.1 Kickboard Analytics (Q1-2024)  

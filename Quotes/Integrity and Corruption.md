@@ -1,0 +1,1 @@
+Just like by not catching dishonest behavior a country becomes corrupt, an organization by tolerating or promoting low integrity behavior would result in a corrupt organization leading to stifled growth. 

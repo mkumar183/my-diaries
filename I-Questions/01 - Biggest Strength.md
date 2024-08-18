@@ -1,2 +1,3 @@
-- My ability to ask questions and penetrate into any problem without really knowing much of it. I am a generalist with few special skills such as databases and performance tuning. 
-- Ability to gaze and sense from far where team will be face difficulties and arranging that help in advance. 
+- Bring together multiple skills and build high performing teams. 
+- Scale high performing teams to 8-10 teams understanding architecture, business and process. 
+- 
