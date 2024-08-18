@@ -1,3 +1,7 @@
+- ask him for your goals and understand his expectations. let him drive. 
+
+
+
 - Architectural opportunities
 	- CICD for ETLs. In case it can be broken by each functional component. 
 	- Modularize upgrade such that each component can be upgraded indepednently 
