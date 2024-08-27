@@ -5,4 +5,6 @@
 2. Solidify Habit of Daily Introspection: 5 Mins. Review your day. 
 3. Current Spiritual Diary theme of Meditation. (Last few themes: Surrender to God)
 4. Lessons 35 and 36: Dreams and Visions. Overcoming Fear of Death 
-5. Daily no matter what 
+5. Daily no matter what all exercises should be done
+6. practice detachment from office and compartmentalizing office 
+
