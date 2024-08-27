@@ -7,7 +7,6 @@ Changes in basic Attitudes that will help:
 as a Sumtotal of all your past actions 
 ### Have gratitude 
 for what all is available to you 
-
 ### Focus on changing yourself 
 than criticizing others or trying to wrestle with others 
 
@@ -35,3 +34,25 @@ Feel pleasure in solitude
 ### Don'ts 
 - Avoid gossiping (unnecessary socializing), TV, social media. 
 - Avoid watching TV especially long series 
+
+#### Managing your thoughts and Interactions
+
+Analyze what are you doing with your thoughts. Thoughts can be of various kinds: 
+- Thinking of a solution for a problem 
+	- Are you solving a problem that's worth solving it 
+- Positive about a person, event, place 
+- Negative about a person, object, event, place 
+- Future 
+- Past 
+- Thinking about presence of God. Present moment
+
+
+
+
+
+
+
+
+
+
+
