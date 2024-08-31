@@ -1,3 +1,11 @@
+- do the right things but do not 
+go against the system. systems are imperfect
+how you can solve something from within
+the system. know the problems of the system
+but use these to your advantage in solving 
+reactively. 
+be reactive in the system. 
+
 1. Cultivate Habit of Being in the Present Moment. 
 	1. This means cultivating presence of God throughout the day. 
 	2. This also means being peaceful, happy and content
