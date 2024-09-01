@@ -54,7 +54,9 @@ makimg more time for god:
 - sudama: took poha, God enjoyed 
 - world like a cat. catch tail whole cat comes.
 - wake, sleep, bathroom, (repeat poem God God God), eat (offer to God), before eat read spiritual diary, traffic signals, phone rings, (om guru), climbing stairs (affirmation), different affirmations for each moment, 
-- 
+- so many feel i have no god, most ppl are busy but not with what matters, simplify your life and fill life with presence of God. 
+- instead of more time think i need to give more heart to God. 
+
 
 
 
