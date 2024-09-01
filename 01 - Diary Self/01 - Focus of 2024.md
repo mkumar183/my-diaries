@@ -16,3 +16,45 @@ be reactive in the system.
 5. Daily no matter what all exercises should be done
 6. practice detachment from office and compartmentalizing office 
 
+
+makimg more time for god:
+- quality not quantity 
+- lesson 12: God God God poem
+- work is integral to our sadhana
+- spiritualize our work
+- five stages of motives 
+- selfish, us and little bit for others,
+- e.g. we work for our families
+- expands for society / community / world
+- mother teresa story 
+- 3rd offer to God, 
+- mrinalini ma - please god or guru ji
+- pleasing God we develop God (bhakti)
+- develop attunement 
+- 5th motive: i am not the doer. 
+- God is working through us. 
+- work on first 3 stages. 
+- exp of bricks cement: in gaps of our
+- work use gap love of god like cement
+- take God breaks (instead of tea)
+- be aware of these gaps 
+- you are the master of the moments of your life. use these wise.
+- minutes are more important than hours. 
+- never think of tomorrow. divine romance. 
+- value of the moments 
+- forget the past. human efforts . everything in future will improve if you are making effort now. 
+- now -> present -> make full moment gull use
+- whole day will be filled 
+- story: village, cowherd work, pond, tree, throwing shiny stuff, precious gems in two directions, 
+- we end up wasting now. use now to love god. 
+- as soon as thru activity place mind on God
+- patiently lead mind back to in dwelling God.
+- God is present with me. i love you. 
+- cultivate desire for God 
+- sudama: took poha, God enjoyed 
+- world like a cat. catch tail whole cat comes.
+- wake, sleep, bathroom, (repeat poem God God God), eat (offer to God), before eat read spiritual diary, traffic signals, phone rings, (om guru), climbing stairs (affirmation), different affirmations for each moment, 
+- 
+
+
+
