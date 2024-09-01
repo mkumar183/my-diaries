@@ -10,6 +10,6 @@
 - Ability to do hands on coding work in Python and SQL and understand any language from design perspective
 - Customer Focused: Understanding of personas. Ability to put myself in their shoes. My questions are how this will benefit a teacher or a student. 
 - People centric: I am very people centric in the sense i center my thoughts around people. How are they feeling. Do they feel safe ? What progress are they expecting. How to keep fear out of the place. 
-
+- humbleness and ability to collaborate and get best out of people esp when they are far better than me. i am not intimidated by then yet i treat them with respect. i am able to ask deeper questions and penetrate into something thats real. also, my approach is very practical and simple. i don't believe in anything complex. i like to kill complexities from systems. 
 The above skills impart me unique ability to Zoom in and Zoom out and ask questions from various angles. Bringing these skills in various dimensions together I am able to build high performance team 
 
