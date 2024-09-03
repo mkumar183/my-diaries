@@ -2,6 +2,12 @@ Problem Statement: Attachments cause us pain of loss. We may not eliminate attac
 Attach to God 
 detach from world 
 
+opposite of liberation is attachmemt.
+leberty gives happiness and joy
+attachments lead to pain and sorrow. 
+attachments are shackles thru which soul
+is chained to this world. 
+
 why we attach from world ?
 because we think its providing us happiness or joy or what we need. 
 what comes under workd: 
