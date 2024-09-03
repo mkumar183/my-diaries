@@ -19,7 +19,14 @@ these are false happiness.
 do ur responsibity but do not expect anything in return. 
 
 
-
+actions: 
+- reduce no of possessions u have n need
+- list what you are most attached with: where u have most expectation. disturbing what will cause you most pain.
+- think why you are attached to those things
+- family: u have responsibilty. pain comes when you have expectations. so work on reducing expectation. 
+- friends: do away with unnecessary friends and make few deep relationships
+- give dont expect: practice
+- solely depend on God 
 
 
 
