@@ -1,14 +1,8 @@
-- do the right things but do not 
-go against the system. systems are imperfect
-how you can solve something from within
-the system. know the problems of the system
-but use these to your advantage in solving 
-reactively. 
-be reactive in the system. 
-
-1. Cultivate Habit of Being in the Present Moment. 
+Cultivate Habit of Being in the Present Moment. 
 	1. This means cultivating presence of God throughout the day. 
 	2. This also means being peaceful, happy and content
+- remember thou are the doer not I, thy will be done not mine.
+- our mind goes to world since we are attached to world. detach. know that world and you are separate and this world cannot do anything to you. 
 	3. Not being shaken up by turmoil of the day (reflect on those)
 2. Solidify Habit of Daily Introspection: 5 Mins. Review your day. 
 3. Current Spiritual Diary theme of Meditation. (Last few themes: Surrender to God)
@@ -56,6 +50,14 @@ makimg more time for god:
 - wake, sleep, bathroom, (repeat poem God God God), eat (offer to God), before eat read spiritual diary, traffic signals, phone rings, (om guru), climbing stairs (affirmation), different affirmations for each moment, 
 - so many feel i have no god, most ppl are busy but not with what matters, simplify your life and fill life with presence of God. 
 - instead of more time think i need to give more heart to God. 
+
+- do the right things but do not 
+go against the system. systems are imperfect
+how you can solve something from within
+the system. know the problems of the system
+but use these to your advantage in solving 
+reactively. 
+be reactive in the system. 
 
 
 
