@@ -9,7 +9,7 @@ Cultivate Habit of Being in the Present Moment.
 4. Lessons 35 and 36: Dreams and Visions. Overcoming Fear of Death 
 5. Daily no matter what all exercises should be done
 6. practice detachment from office and compartmentalizing office 
-
+being aware of every moment and knowing if its your mind or the soul who is making decison guiding is living in the present moment. knowing that soul and god and guru are one and they guiding your mind body vehicle and being aware of this is being in the present moment. 
 
 makimg more time for god:
 - quality not quantity 
