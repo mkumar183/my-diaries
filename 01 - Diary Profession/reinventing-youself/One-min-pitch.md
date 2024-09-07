@@ -1,7 +1,8 @@
 **New Simpler Pitch:** 
 - Focus on your achievements, successes and few failures (remember at this stage what your teams have achieved is your success.)
 - Explain your journey as skills you acquired, successes and failures you had and how you have grown to your current state where you manage a team of 50+ engineers and lead 30-40 personal group to drive change and success for the organization. 
-- Highlight your self awareness as your strengths and some of your weaknesses as well if possible. 
+- Highlight your curiosity to learn and be very business outcome focus as key strength while your inability to market your solutions and yourself as your weakness. certain amount of shyness and not talking about yourself plus not making problems big rather getting into solving is my nature. plus i believe in continuous improvement which many type of leaders do not appreciate. 
+
 - Be humble and show how you have moved from personal success to team and teams success. 
 
 
