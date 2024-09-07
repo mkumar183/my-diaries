@@ -1,13 +1,13 @@
-Attachments cause us pain of loss. We may not eliminate attachments but we can reduce these to minimum ones that really matter. 
-Attach to God detach from world 
+Attachments cause us pain of loss. We may not eliminate attachments but we can reduce these to minimum ones that really matter. Attach to God detach from world 
 
-opposite of liberation is attachmemt.
+Opposite of liberation is attachmemt.
 leberty gives happiness and joy
 attachments lead to pain and sorrow. 
-attachments are shackles thru which soul
-is chained to this world.
+attachments are shackles thru which soul is chained to this world.
 
-deeper attachments cause deeper sorrow. these attachments also cause us 
+deeper the attachments deeper the sorrow caused by them. these attachments also cause us to come back to this earth again and again. attachments are results of our karmas and manifest in form of desires. 
+
+attachments can be with material things, other living bodies and could be psychological in nature such as attachment with a status and position in society. the root of attachments is ego and desires. 
 
 why we attach from world ?
 because we think its providing us happiness or joy or what we need. 
