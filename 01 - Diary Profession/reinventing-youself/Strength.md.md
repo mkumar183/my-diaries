@@ -1,7 +1,8 @@
 **Strength**: What do you think leads you to your successes ? 
-- Strategic Thinking: Thinking far ahead months and start taking incremental steps towards it consistently and gain success. Examples: 
-	- Invalid Bugs, Support Forum and Organizing teams by Components. 
-	- Serverless Architecture and Introducing batch for reporting in kickboard 
+
+- Learning attitude
+- Customer/Business focus (why are we doing what are we doing ?) 
+- Strategic Thinking: Thinking far ahead months and start taking incremental steps towards it consistently and gain success. Examples: - Invalid Bugs, Support Forum and Organizing teams by Components. - Serverless Architecture and Introducing batch for reporting in kickboard 
 - Technology agnostic Understanding of how things work in technology: 
 	- e.g. APIs, decoupled architectures, System design, 
 - Volatility based mindset: 
