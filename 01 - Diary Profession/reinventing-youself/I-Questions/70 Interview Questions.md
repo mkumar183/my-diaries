@@ -16,30 +16,23 @@ Teams and Situations:
 Certainly! Here are 70 questions extracted from the text provided:
 
 1. Can you tell me about yourself?
-Passionate Technologies. Hands-On. Wide variety of technologies and projects. 
-7 companies part of PowerSchool randing from PHP, Serverless, Cloud Transformations, Scalability, Analytics, AI. SaaS based. Large Scale of upto 2-3 million users, 
-Passionate about building High Class Engineering Culture: 
-Self Disciplined and Organized. Focus on Integrity and Values. 
-Yoga Trainer and Meditation practitioner. 
+somebody who brings various skills and experiences in technology, peopel and team management and process optimizations bringing business results and outcomes in a very focused manner. my focus is to bring consistent and sustained results and establish best engg habits in teams that make it autonomous and keep giving excellent business outcomes. 
 
 2. Why should we hire you?
-Because I can help you grow your presence and team in India with very high quality at optimal costs. Build India center at par or even at higher quality than anywhere in the world. 
+Because I have built excellent legacy and i can do that again by building teams that will generate highest value for your business. 
 
 3. What’s your greatest strength ?
-My greatest strength is to be able to bring mix of skills and experience together such as my technology passion, ability to bring teams together, ability to understand human psychology, my ability to be hands on and convert business problem to technologies, talk to various stakeholders and convert that into business solutions and using all these skills build high performing teams that are very long term asset for a company. 
+Learnting, Focused on results and humble. My greatest strength is to be able to bring mix of skills and experience together such as my technology passion, ability to bring teams together, ability to understand human psychology, my ability to be hands on and convert business problem to technologies, talk to various stakeholders and convert that into business solutions and using all these skills build high performing teams that are very long term asset for a company. 
 
 4. What’s your greatest weakness ?
-My own Image building and marketing myself. I have been not that great at that. e.g. some people view me not as a strong people person. However, my eNPS has been best in the company. I do not gossip i do not indulge in unnecessary politics. However, if you talk to me about something meaningful I put my points across. 
-
-I am too passionate and sometimes may be termed as idealist or perfectionist. Taking too many initiatives. 
-However, all i try to achieve is best for the organization even sometimes at the cost of my personal losses and then get everyone on a continuous improvement path. 
+marketing myself to some of the leaders who operate based on perception than data. my focus is on solutions and not making problems big. some people are very good at that but i am not.  
 
 5. Can you describe a challenging situation you faced at work and how you handled it?
-Several:- 
+Several:
 - Establishing Team of very high performing individuals for Schoology for India  
 - Taking Unified Insight Team and expanded it from 3 scrum team to 8 scrum team. 
 - Got 10 engineers freed up from 'Services' work 
-- Reduce number of people managing operations from 10 to 3 by automating 
+- Reduce number of people managing operations from 10 to 3 by automating
 - Snowflake Migration project 
 - Take over of kickboard team. (Introducing Serverless technologies, AWS CDK and AWS Batch)
 - Sunset of Haiku Learning project 
@@ -48,30 +41,29 @@ Several:-
 
 6. Where do you see yourself in 5 years?
 Building more teams, a writer, a coach, continue to pursue my passion for technologies and building high performing teams.
-On personal front going deeper into meditation. Servicing more. 
+On personal front going deeper into meditation. Serving more to society. 
 
 7. Why did you leave your last job?
 Zenoti: Zenoti was purely sales driven. They were not passionate about technology nor about the product. Just running behind numbers and making unrealistic promises to customers for selling fast. 
+
 PowerSchool: Its no more on growth path. Growth is sluggish. Change of hands and management is imminent. 
 
 8. Tell me about a time you failed and what you learned from it.
-No big failures. 
-- Early in my career i almost broke a robot. It was very expensive then. After this incident I became over careful about testing. Esp. divide by zero. 
+- Early in my career i almost broke a robot. It was very expensive then. After this incident I became over careful about testing. Esp. divide by zero.
 - TekSystems: The project was too big for me. 60-70 engineers. There was no structure of work. My knowledge of automation was limited. I struggled through that project and those clients. 
 - Zenoti: I built a product part of which many stakeholders did not like. We replaced that with Tablue. Learning: In the earlier phases get enough validations from sales and other stakeholders. Do what you think is right however, take all feedback early on and if posssible have some written trails of these. 
 Today i am not afraid of making mistakes however, i make many smaller mistakes at earlier phases of their lifecycle to avoid big and last minute failures. I encourage my teams making mistakes but earlier in their cycles. That way, by the end very little scope for a big mistake. I belive in iterations and getting early on customer and other stakeholders feedback rather than building for months and then exposing the system. 
 
 9. How do you handle stress or pressure?
 - Walk backward. 
-- Prioritize: Secure the most important things. 
+- Prioritize: Secure the most important things. (ask why are we doing what we are doing ?) 
 - Keep buffer use technical debt. 
 - Plan with enough buffer such that there is no scope for failure. 
 - Release new features in phases (Beta, CA, GA): Instrument feature flags. Have ability to rollback features etc. 
-Example of building logi currently. GA. 
+Example of building logi currently. GA.
 
 10. Describe a situation where you had to work with a difficult coworker.
-- Product partner. 
-	- Centralized approach vs Decentralized Approach of management. 
+- Product partner: - Centralized approach vs Decentralized Approach of management. 
 	- My approach Authoritative, traditional style. Experience in managing smaller projects. 
 	- Centralized approach while mine is decentralized 
 	- Averse to change 
@@ -84,6 +76,10 @@ How did I solve:
 - Slowed down the changes but i did it 
 
 11. What’s your leadership style?
+How can i drive best business customer focused results in a sustained way by keeping my teams excited, motivated and happy. 
+
+more pursuasive. transparent. data driven. 
+
 - Transformational. Agile Principles. Self-Organizing , Self-Managing Autonomous Teams. 
 - High Empowerment and Trust. 
 - Use of data to appreciate and make continous improve
@@ -122,7 +118,7 @@ How did I solve:
 - Leap in GenaI and automated Jira workflows. 
 
 16. What motivates you in your career?
-Passionate about building high performing teams. Adding value to people's lives, Generating wealth for Investors and providing better services to customers. Impacting all three major stakeholders plus vendors if involved. 
+service to others. Adding value to people's lives, Generating wealth for Investors and providing better services to customers. Impacting all three major stakeholders plus vendors if involved. 
 
 17. Describe a project where you had to meet tight deadlines. How did you manage it?
 - Plan backward 
