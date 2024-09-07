@@ -1,5 +1,2 @@
-1. Teams with high performing culture. 
-2. Hiring and building a process of Talent Acquisition with Driving it myself training hiring team, setting expectations across leadership for cost and speed 
-3. Bringing Change: Interdepartmental. QA, Product, Support and Cloudops. 
-4. Bringing efficiencies to Engineering teams by bringing these changes and streamlining operations 
+Your biggest accomplishment is your people, teams the processes that you have established. The legacy that you will leave or have left. Its not easy to bring right kind of people, acclamatise them with the environment and then make them successful. Its even more challenging to bring different people, put them into teams, create team charters based on technologies, product architectures and customer priorities and then driving business outcomes. Being able to do it and create this big asset is my biggest accomplishment other than the actual business outcomes in each company such as at Zenoti building and launching the platform, At SumTotal resolving reporting issues challenges and launching analytics platforms. 
 

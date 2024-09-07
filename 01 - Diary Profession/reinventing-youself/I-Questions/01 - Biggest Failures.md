@@ -1,4 +1,13 @@
-- Tried startups 2 Times in my career and failed. 
+Two kind of failures. 
+- Project failures. Missing Deadlines and Targets. 
+- Relationship failures. 
+- Wrong Initiatives
+	- Accounting Engine, Inhouse ad-hoc capabilities, Tried to make too many changes at same time and then got a push back (establishing core team meetings)
+
+
+
+
+
 - Proposed and build Auto Accounting Engine and then shelved it 
 - Proposed and build in-house a metric builder application and then shelved it 
 - Tried too many changes at the same time and got good amount of resistance from many people so i had to slow down and consolidate to few high impact initiatives (e.g. i was trying to change processes, slack organization, meetings setup etc.)

@@ -1,0 +1,1 @@
+To be aware means to invoke the higher self within you and act through that watching your mind and controlling your mind. Acting like a third person with Guru's teachings. 
