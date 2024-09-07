@@ -1,4 +1,4 @@
-Attachments cause us pain of loss. We may not eliminate attachments but we can reduce these to minimum ones that really matter. Attach to God detach from world 
+Attachments cause us pain of loss. We may not eliminate attachments but we can reduce these to minimum ones that really matter. 
 
 Opposite of liberation is attachmemt.
 leberty gives happiness and joy
@@ -7,14 +7,18 @@ attachments are shackles thru which soul is chained to this world.
 
 deeper the attachments deeper the sorrow caused by them. these attachments also cause us to come back to this earth again and again. attachments are results of our karmas and manifest in form of desires. 
 
+attachments are like chains, desires are like iron giving it strength, ego is the hook holding the chain with ego in one end and soul the other end. soul germinates into body to fulfill these desires. however, these chains get stronger and more entangled with more desires and now soul is completelt entangled via body in this world leading to endless sorrows with no hope of freedom.
+
 attachments can be with material things, other living bodies and could be psychological in nature such as attachment with a status and position in society. the root of attachments is ego and desires. 
 
-why we attach from world ?
-because we think its providing us happiness or joy or what we need. 
-what comes under workd: 
-body, mind, family, job, friends, possessions, house, cars, material things, people
+why we need detachment ?
+attachments are constantly leading us to sorrow under the delusion of temporary happiness. more we fulfill sensory desires more desires are creted by law of maya making our soul endlessly entangled captured in this world. our soul nature is liberation, freedom, endless joy and happiness. we want that. its our birth right. but by getting entangled in attachments we have forgotten our true nature and are drowned in sea of sins. 
 
 how to detach:
+self-study and identify your biggest attachments. 
+cultivate reverence for God and Guru. 
+
+
 know that none of this can give everlasting peace and happiness
 affirm: i came alone, i go alone. 
 from joy i came, in joy i live, in that eternal joy i shall merge on day. 
