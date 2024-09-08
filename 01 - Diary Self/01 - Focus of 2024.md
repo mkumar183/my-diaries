@@ -5,6 +5,7 @@
 4. During breaks, turn the spotlight of your mind to God. Recall His presence and wisdom. (Gita Gyan Points) 
 5. If your mind wanders, ask yourself why and think of the steady state of mind described in ancient texts.
 7. Rather than seeking God, aim to make Him or your teacher happy. Consider if your thoughts and actions would please them.
+8. remember there is one single goal. to get mind fixed in God and kill all likeness or inclinations / attachments from world. yoga chitta vritti nirodha. every moment ask this question is my mind still ?
 8. At day's end, look back on how you felt and acted throughout the day.
 10. Stick to your daily spiritual habits. They'll help you in the long term.
 
