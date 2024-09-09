@@ -8,6 +8,7 @@
 8. remember there is one single goal. to get mind fixed in God and kill all likeness or inclinations / attachments from world. yoga chitta vritti nirodha. every moment ask this question is my mind still ?
 8. At day's end, look back on how you felt and acted throughout the day.
 10. Stick to your daily spiritual habits. They'll help you in the long term.
+11. replace pleasures with peace. take fears courageously and remember God. 
 
 The minutes are more important than the years. If you fill the minutes of your life with thoughts of God, you will find the years of your life automatically saturated with the consciousness of God.
 
