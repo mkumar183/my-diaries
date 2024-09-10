@@ -1,9 +1,9 @@
 Priorities Aug-2024 Onwards: 
 - Focus on what will you show case to Devendra in his next visit 
 - What will you write in your upcoming 2024 Review as what are your accomplishments. 
-- Discuss with Chad and have your goals in writing very clear and focus area
+- Discuss with Chad and have your goals in writing very clear and focus area 
 
-Reflection: What has worked best for you and what has not.
+Reflection: What has worked best for you and what has not 
 - Cross functional Relationships: Shanat, Scott, Su, Apoorav 
 - Clarity of goals and role 
 - Being nice with your people being very focused and goal oriented and being fair to them. 

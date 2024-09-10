@@ -7,7 +7,7 @@
 6. Rather than seeking God, aim to please Gurus.
 7. Single goal is slowly making your mind fixed on God and your actions based on Guru's teachings.
 8. To get mind fixed on God, kill all attachments from world.
-9. Yoga chitta vritti nirodha. (Vrittis in form of pleasures of the world and fears arising from lack of faith) 
+9. Yoga chitta vritti nirodha. (Vrittis in form of pleasures of the world and fears arising from lack of faith). Watch your emotions as well. Emotions are result of the impressions stored in subconscious. So watch your emotions to understand state of your subconscious mind. Subconscious mind can be worked upon through meditation, kriya and affirmations. 
 10. At day's end, look back on how you felt and acted throughout the day.
 11. Stick to your daily spiritual habits. They'll help you in the long term.
 
