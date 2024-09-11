@@ -12,6 +12,9 @@ hence to gain peace start giving up everything that is attaching you to this wor
 
 relationships are on expectations leading to frustrations and struggle.
 
+peace is relationship comes from tyaga or renunciation of expectation. then it becomes pure love. 
+
+opposite of pleasure is not pain. its peace. both pain and pleasure are oscillation of mind and are born in mind. peace is what exists as is in the soul. 
 
 
 
