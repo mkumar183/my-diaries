@@ -7,4 +7,7 @@
 7. focus on cycle times
 8. department in invoming , components 
 9. component vise divisions 
-10. 
+10. retro boards, appreciations
+11. reward system
+12. data driven appraisals 
+13. using metrics to improve than to judge 
