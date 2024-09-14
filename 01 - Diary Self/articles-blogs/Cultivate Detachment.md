@@ -60,3 +60,10 @@ Solution:
 - Pay attention to duration of pain or pleasure caused 
 - 
 
+- having possessions is not a problem but fear of losing possessions, association of status with a house or a car and desire for more is what causes us problem. 
+- having relationships is not a problem. having expectations from relations is. 
+- having status is not a problem but desire for higher status and fear of losing current is. 
+
+how to cultivate detachment ?
+
+
