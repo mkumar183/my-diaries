@@ -9,14 +9,20 @@ deeper the attachments deeper the sorrow caused by them. these attachments also 
 
 attachments are like chains, desires are like iron giving it strength, ego is the hook holding the chain with ego in one end and soul the other end. soul germinates into body to fulfill these desires. however, these chains get stronger and more entangled with more desires and now soul is completelt entangled via body in this world leading to endless sorrows with no hope of freedom.
 
-attachments can be with material things, other living bodies and could be psychological in nature such as attachment with a status and position in society. the root of attachments is ego and desires. 
+attachments live in material things in form of desire to possess them or a status associated with those possessions, or in form of expectations in relationships and could be semse of pride in a status and position in society. the root of attachments is ego and desires. 
 
 why we need detachment ?
-attachments are constantly leading us to sorrow under the delusion of temporary happiness. more we fulfill sensory desires more desires are creted by law of maya making our soul endlessly entangled captured in this world. our soul nature is liberation, freedom, endless joy and happiness. we want that. its our birth right. but by getting entangled in attachments we have forgotten our true nature and are drowned in sea of sins. 
+since attachment is with things thats temporary as those things are taken away from us or someone does not fulfill pur expectations it causes us sorrow. more we fulfill sensory desires more desires are creted by law of maya making our soul endlessly entangled captured in this world. our soul nature is liberation, freedom, endless joy and happiness. we want that. its our birth right. but by getting entangled in attachments we have forgotten our true nature and are drowned in sea of sins. 
 
 how to detach:
-self-study and identify your biggest attachments. 
-cultivate reverence for God and Guru. 
+- develop self awareness through meditation and introspection. 
+- self-study and identify your biggest attachments. 
+- cultivate reverence for God and Guru.
+- differentiate between necessary necessities and unnecessary necessities. 
+- disassociate your status from your possessions. 
+- live an average life. do not go extreme else you may face resistance from society.
+- adapt minimalism. 
+- meditate and realize the truth of souls and relationships. 
 
 
 know that none of this can give everlasting peace and happiness
