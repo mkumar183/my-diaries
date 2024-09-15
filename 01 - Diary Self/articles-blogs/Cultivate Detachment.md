@@ -65,5 +65,26 @@ Solution:
 - having status is not a problem but desire for higher status and fear of losing current is. 
 
 how to cultivate detachment ?
+Guru ji says live like butter on water. its not possible to live without others in this world. we can seek a solitary life but we are associated and connected with the rest. In such cases its best to live around all but not being attached to them. 
+
+Things: find out things that you have extreme desire for. See if you can live without these. are these practical or logical possessions.
+
+House: you need one home to live. It being big or small is relative. But having one home is not wrong attachment. we all need security to live. we are not in this world to live like beggars. self pride is not attachment. 
+
+Money: having enough money for your own security is not attacemt. Amoumt of money you possess is a measure of the services you have done to others. this world is cruel. you should have enough security for emergencies that you can buy services you will need. use a good financial planner to compute these necessities and have money to serve these needs. 
+
+Social Obligations: kids marriage, education etc are essential obligations. plan for these and get these done. 
+
+Hoarding money beyond these needs is greed bit know that you will end up giving all of it in charity at the end of your life. Until then no harm in keeping it in your control. 
+
+Relationships: know that all relations are selfish in nature. yet to live in this world you need all of these. Maimtain your necessary relations without any expectations from them. Cultivate love as much as you can but do not expect anything in return. 
+
+Status: maintain a good social status and know that its your birth right to maintain it. But be ready for God's decision anytime gor any of these. He is the giver and He can take all of these away any day. Surrender all and everything to God. 
+
+
+
+
+
+
 
 
