@@ -38,8 +38,8 @@ Several:
 - Sunset of Haiku Learning project 
 - Taking over of Performance Matter team. Letting go of Manager. Hiring many high performing Individuals.
 - Handling Maimi-Dade Situation
+6. Where do you see yourself in 5 years ?
 
-6. Where do you see yourself in 5 years?
 Building more teams, a writer, a coach, continue to pursue my passion for technologies and building high performing teams.
 On personal front going deeper into meditation. Serving more to society. 
 
