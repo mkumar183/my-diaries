@@ -11,6 +11,8 @@
 10. At day's end, look back on how you felt and acted throughout the day.
 11. Stick to your daily spiritual habits. They'll help you in the long term.
 
+12. (17-9-24). When you think God is present in every moment and you surrender to him why should you worry of anything. think positive and know that all that is happening is for uour good. cultivate faith in God.
+
 The minutes are more important than the years. If you fill the minutes of your life with thoughts of God, you will find the years of your life automatically saturated with the consciousness of God.
 
 The minutes are more important than years. If you do not fill the minutes of your life with thoughts of God, the years will slip by; and when you need Him the most, you may be unable to feel His presence. But if you fill the minutes of your life with divine aspirations, automatically the years will be saturated with His presence.
