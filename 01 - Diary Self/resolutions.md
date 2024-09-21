@@ -1,3 +1,1 @@
-no useless discussions. action oriented ones. 
-self awareness as what changed a discussion in me
-did i get more negatibiyy about someone ?
+If light and wonder is done then you will shoft to a place closest to jain temple and you will start following niyamas and lifestyle like jains. like not having bread with eggs etc.
