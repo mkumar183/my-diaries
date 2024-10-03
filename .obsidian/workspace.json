@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e7bff693851d2524",
+        "id": "552b2d40eb5001cf",
         "type": "tabs",
         "children": [
           {
-            "id": "069e7a1ec25f7373",
+            "id": "27a9b0d38eff7704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Diary Self/01 - Focus of 2024.md",
+                "file": "01 - Diary Self/articles-blogs/Making Each Block of Time Fulfilling.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9237910bd2db49a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Tips for Writing Technical Articles.pdf"
               }
             }
           }
@@ -79,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 476.5
   },
   "right": {
     "id": "0ac0319257897b6c",
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Diary Self/01 - Focus of 2024.md",
+                "file": "01 - Diary Self/articles-blogs/Making Each Block of Time Fulfilling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Diary Self/01 - Focus of 2024.md",
+                "file": "01 - Diary Self/articles-blogs/Making Each Block of Time Fulfilling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Diary Self/01 - Focus of 2024.md"
+                "file": "01 - Diary Self/articles-blogs/Making Each Block of Time Fulfilling.md"
               }
             }
           }
@@ -158,53 +148,53 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "069e7a1ec25f7373",
+  "active": "27a9b0d38eff7704",
   "lastOpenFiles": [
-    "01 - Diary Profession/reinventing-youself/I-Questions/70 Interview Questions.md",
-    "02 - writings/building high performance teams/quotes.md",
-    "01 - Diary Self/enjoy-this-world.md",
-    "01 - Diary Self/articles-blogs/peace.md",
-    "01 - Diary Profession/reinventing-youself/I-Questions/matrix-mgmt-stakeholder-mgmt.md",
-    "01 - Diary Profession/list-of-best-practices.md",
-    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Technical Difficult Situations.md",
-    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Biggest Weakness & Failures.md",
-    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Biggest Strength.md",
-    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Biggest Failures.md",
-    "01 - Diary Profession/reinventing-youself/I-Questions/01 - Biggest Accomplishments.md",
-    "01 - Diary Self/01 - Focus of 2024.md",
-    "01 - Diary Profession/02-strategic-goals-priorities.md",
-    "01 - Diary Profession/24-09-07.md",
-    "01 - Diary Self/Thoughts/Quotes/What vs How.md",
-    "01 - Diary Self/Thoughts/Quotes/To Be Aware.md",
-    "01 - Diary Self/articles-blogs/Notes from Satsanga.md",
-    "01 - Diary Self/Thoughts/Quotes/Cultivating Faith.md",
-    "01 - Diary Self/Thoughts/Quotes/Communication.md",
-    "01 - Diary Self/articles-blogs/How to Simplify Life.md",
-    "01 - Diary Self/articles-blogs/Cultivate Detachment.md",
-    "01 - Diary Self/articles-blogs/02 - Mastering Your Mind. A Guide to Managing Thoughts for Clarity and Focus.md",
-    "01 - Diary Self/articles-blogs/01 - How to Cultivate Habit of Being in the Present Moment.md",
-    "01 - Diary Profession/Discussions with Chad/Solving Operations Challenge.md",
-    "01 - Diary Profession/Discussions with Chad/Discussion with Chad Achievements 2023-24.md",
-    "01 - Diary Profession/05-accomplishments-2023.md",
-    "01 - Diary Profession/Draft - UIHN-Product Review with Devendra - July 2024.pdf",
-    "01 - Diary Profession/aws-kendra.png",
-    "Tips for Writing Technical Articles.pdf",
-    "02 - writings/compartmentalizing life",
-    "Pasted image 20240901072719.png",
-    "Pasted image 20240830102631.png",
-    "Pasted image 20240830102540.png",
-    "02 - writings/building high performance teams/Topics",
+    "01 - Diary Self/articles-blogs/how to play with perceptions.md",
+    "01 - Diary Self/articles-blogs/Making Each Block of Time Fulfilling.md",
+    "01 - Diary Profession/Discussions with Chad/19-Sep-2024.md",
+    "01 - Diary Self/resolutions.md",
     "01 - Diary Self/articles-blogs",
-    "01 - Diary Profession/Discussions with Chad",
-    "Pasted image 20240819150837.png",
-    "Pasted image 20240817182746.png",
-    "Pasted image 20240721000739.png",
-    "01 - Diary Self/Lessons Summary",
-    "Scaling the Agile Teams for Large Products.pdf",
-    "Pasted image 20240817182609.png",
-    "Pasted image 20240817181635.png",
-    "Pasted image 20240721001349.png",
-    "02 - writings/building high performance teams/Unlocking Potential of Cross Functional Agile Teams Through Cross-Skilling.pdf",
-    "02 - writings/building high performance teams/SpotifyScaling.pdf"
+    "01 - Diary Self/Lessons Summary/Prayers.md",
+    "02 - writings/managing-self/What is Meditation. How to Cultivate Love and Faith in God..md",
+    "02 - writings/building high performance teams/raw-articles/Slack Channels.md",
+    "02 - writings/managing-self/Bringing God's Presence In Each Moment of Your.md",
+    "02 - writings/managing-self/Success of a Country or World.md",
+    "Pasted image 20240926181127.png",
+    "02 - writings/managing-self/peace.md",
+    "02 - writings/managing-self/Overcoming Fear of Death.md",
+    "02 - writings/managing-self/Notes from Satsanga.md",
+    "02 - writings/managing-self/Cultivate Detachment.md",
+    "02 - writings/managing-self/02 - Mastering Your Mind. A Guide to Managing Thoughts for Clarity and Focus.md",
+    "02 - writings/building high performance teams/Topics.md",
+    "02 - writings/building high performance teams/Tips for Writing Technical Articles.md",
+    "02 - writings/building high performance teams/quotes.md",
+    "01 - Diary Profession/2024-05-26.md",
+    "01 - Diary Profession/02-strategic-goals-priorities.md",
+    "01 - Diary Profession/05-accomplishments-2023.md",
+    "01 - Diary Profession/05-accomplishments-2024.md",
+    "01 - Diary Profession/reinventing-youself/Weakness.md",
+    "01 - Diary Profession/reinventing-youself/The-goal.md",
+    "01 - Diary Profession/reinventing-youself/Strength.md.md",
+    "01 - Diary Profession/reinventing-youself/Reflection.md",
+    "01 - Diary Profession/reinventing-youself/One-min-pitch.md",
+    "images",
+    "images/Pasted image 20240923143324.png",
+    "01 - Diary Profession/Engineering Leadership Meeting",
+    "02 - writings/building high performance teams/raw-articles/essence-of-leadership.jpg",
+    "02 - writings/building high performance teams/raw-articles/Dev Charter - version 2.pdf",
+    "02 - writings/building high performance teams/raw-articles/SpotifyScaling.pdf",
+    "02 - writings/building high performance teams/raw-articles/SGY PE Charter (v3).pdf",
+    "02 - writings/building high performance teams/SpotifyScaling.pdf",
+    "02 - writings/Tips for Writing Technical Articles.pdf",
+    "01 - Diary Profession/70 Questions.pdf",
+    "99 - archive/Pasted image 20240721000739.png",
+    "99 - archive/Beyond-the-basics-of-scaling-agile-white-paper.pdf",
+    "99 - archive/Pasted image 20240830102631.png",
+    "Pasted image 20240920072452.png",
+    "Pasted image 20240901072719.png",
+    "99 - archive/Pasted image 20240830102540.png",
+    "99 - archive/Pasted image 20240819150837.png",
+    "99 - archive/Pasted image 20240817182746.png"
   ]
 }

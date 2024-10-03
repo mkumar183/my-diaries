@@ -1,39 +1,70 @@
-**Embrace Living in the Present Moment** 
-1. Notice each moment fully. As you work, realize it's your Guru and God acting through you.
-2. Grow your respect for Gurus and God. Krishna, Jesus, Babaji, Lahari Mahasaya shared their teachings.
-3. Stay aware and focused on each moment as where your mind is and what are your emotions, reactions to others etc. you'll slowly rise above these concerns.
-4. During breaks, turn the spotlight of your mind to God & Guru. Recall His presence and wisdom. (Summary of Guru's Teachings) 
-5. If your mind wanders, ask yourself why and replace pleasures with peace and fear with faith.
-6. Rather than seeking God, aim to please Gurus.
-7. Single goal is slowly making your mind fixed on God and your actions based on Guru's teachings.
-8. To get mind fixed on God, kill all attachments from world.
-9. Yoga chitta vritti nirodha. (Vrittis in form of pleasures of the world and fears arising from lack of faith). Watch your emotions as well. Emotions are result of the impressions stored in subconscious. So watch your emotions to understand state of your subconscious mind. Subconscious mind can be worked upon through meditation, kriya and affirmations. 
-10. At day's end, look back on how you felt and acted throughout the day.
-11. Stick to your daily spiritual habits. They'll help you in the long term.
-12. (17-9-24). When you think God is present in every moment and you surrender to him why should you worry of anything. think positive and know that all that is happening is for uour good. cultivate faith in God.
+# The Art of Now: A Guide to Cultivating Present Moment Awareness
 
-Observing Each Moment: 
-1. Partition the moments into periods based on their context: Location, Situation, People Around you, your emotions/state etc. 
-2. Become aware of **context** of each moment. Weather you are at work, with friends, social gathering, at home, meditating. Get in the context of the moment. Know that God has brought this moment to you. Be it good or bad. Its for your teaching and learning and growing this moment, situation, people is brought to you. 
-3. Become aware of change of context of the moment. e.g. getting into a meeting, getting into a travel to reach office, reaching office, waking, meditating, eating, being with family. When you change your context, get into that context fully as much as possible. You can take a deep breath and tell yourself now i leave this situation and get myself into the new situation. I will pick up the old situation or context later on. 
-4. Try to be in one context at a time. This will give you focus and fulfillment.
-5. Learn how to bring God's presence in each of these moments. Remember people around you are sent by God (good and bad). Situation is sent to you for you to learn and overcome. Do not get overjoyed with the good situation and down with not so good situations. Even minded ness in all situations is a key ability you can develop. 
-6. Have gratitude and acceptance for these situations and moments. Remember, the situation you are undergoing is something you envisioned or wanted at some point of time in your life. 
-7. Thou are the doer not I, Thy will be done, not mine. Remember this line again and again. And do everything surrendering to God. 
-8. Take your eyes frequently to kutastha and bring God's presence. Recollect image of your Guru and Istha and know they are Sakshi of all that you are doing. 
-9. Remember each moment you live on this planet is so important. You need to make every ounce of it. You should use each moment to get closer to God and feel his bliss and presence. Each moment is taking you closer to God is the moment that you have made useful rest is all wasted which will not come back. Life is utmost precious. 
+In our fast-paced world, our minds often race between memories of the past and worries about the future. But what if I told you that the key to a more fulfilling life lies in the present moment? Let's explore how to cultivate this powerful habit and transform our daily experiences.
 
+## Why Being Present Matters
 
-The minutes are more important than the years. If you fill the minutes of your life with thoughts of God, you will find the years of your life automatically saturated with the consciousness of God.
+Have you ever found yourself replaying a conversation from yesterday or anxiously planning for tomorrow's meeting? You're not alone. Our minds are naturally inclined to wander, but this tendency can rob us of our peace and productivity. As the Buddha wisely said:
 
-The minutes are more important than years. If you do not fill the minutes of your life with thoughts of God, the years will slip by; and when you need Him the most, you may be unable to feel His presence. But if you fill the minutes of your life with divine aspirations, automatically the years will be saturated with His presence.
+> "The secret of health for both mind and body is not to mourn for the past, worry about the future, or anticipate troubles, but to live in the present moment wisely and earnestly."
 
-Live each moment completely and the future will take care of itself.
+By learning to be present, we can enhance our mental health, boost our happiness, and become more effective in our daily lives. Let's dive into some practical strategies to help you cultivate this transformative habit.
 
-Focus on your emotions, thoughts and finally actions. Its finally your actions that matters. 
+## Strategies for Cultivating Present Moment Awareness
 
-The secret of health for both mind and body is not to mourn for the past, worry about the future, or anticipate troubles, but to live in the present moment wisely and earnestly.
+### 1. Partition Your Moments into Periods
 
-The past is history, the future is a mystery, but the present is a gift. That's why it's called the present.
+Start by partitioning your day into context-based periods. Whether you're at work, home, or in a social gathering, take a moment to center yourself in that context. Ask yourself:
 
-Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.
+- Where am I?
+    
+- Who's around me?
+    
+- What's my emotional state?
+    
+- What should my focus be right now?
+    
+
+This simple practice helps you transition mindfully between different parts of your day.
+
+### 2. Embrace the Context
+
+As you move through your day, become aware of the changing contexts. When you enter a new situation, take a deep breath and mentally prepare yourself. For instance, when entering a meeting, you might think, "I'm leaving behind my previous task and focusing fully on this discussion."
+
+### 3. Bring Presence of Your Higher Self
+
+For those spiritually inclined, try bringing a sense of the divine into each moment. If you believe in a specific deity, imagine their presence guiding your actions. For a more abstract approach, focus on embodying values like honesty, integrity, or compassion in each interaction.
+
+### 4. Practice One-Pointed Focus
+
+In our multitasking world, it's revolutionary to focus on one thing at a time. As you engage in a task, give it your full attention. You'll likely find that this not only improves your performance but also brings a sense of fulfillment.
+
+### 5. Cultivate Gratitude and Acceptance
+
+Remember, each situation you're in is part of your life's journey. Practice gratitude for these moments, even the challenging ones. They're all opportunities for growth and learning.
+
+### 6. Surrender to the Present
+
+Adopt the mindset of "Thy will be done, not mine." This attitude of surrender can help you release anxiety about outcomes and fully engage with the present moment.
+
+### 7. Use Visual Anchors
+
+If it helps, use visual reminders to bring your attention back to the present. This could be a small object on your desk, a piece of jewelry, or even a specific spot in your environment that you glance at periodically to recenter yourself.
+
+## The Power of Now
+
+Remember, as Paramahansa Yogananda beautifully put it:
+
+> "The minutes are more important than the years. If you fill the minutes of your life with thoughts of God, you will find the years of your life automatically saturated with the consciousness of God."
+
+Replace "God" with whatever represents your highest ideals, and you'll see how powerful present-moment awareness can be in shaping your life's trajectory.
+
+## Your Journey Starts Now
+
+Cultivating present-moment awareness is a journey, not a destination. Be patient with yourself as you practice these strategies. Start small – perhaps by choosing one technique to focus on each week.
+
+Remember, as Lao Tzu said, "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present."
+
+Are you ready to embrace the power of now? Share in the comments which strategy you're excited to try first!
+
+[Call-to-Action Button: Start My Present Moment Journey]
