@@ -1,0 +1,11 @@
+**Grit / Perseverance**: Earlier in my life getting into IIT talks about my character with no support or guidance from my parents and society. My ventures into meditation and establishing myself as a decent meditator is another achievement that i have which shows my grit. In professional life recently i put my whole focus on reducing backlog and incoming from customers by focusing on no-fix-version tickets. Dividing the product into components, creating cross functional teams. I did not have great support from peers or even my leaders. But i went on to doing it on a slow pace along with rest of the work. And when after one year the results came out it just wowed everyone in terms of the grit that put behind this strategic initiative. 
+
+**Agility**: Trade off between technical debt vs Go Live. Iterative approach. Get it out to few customers. Judicious call for features that are going to large customer vs that are going to small set of customers. 
+
+**Ownership**: No Fix Version. Capex vs Opex. Component wise ownerships. Forum with Support. Thinking of i own it if i spend little on maintenance i can enhance it even more and get more points. 
+
+**Customer First**: Being in the shoes of Parents, Admins, Teachers and Students. These are the 4 personas that we support. How does a teacher operate. What is their view point. What does an Admin want and what are they trying to achieve. 
+
+For our customers most important thing is student success. How can they improve their attendance and that has impact on their academics. PBIS, SEL and MTSS are systems that we created. Detailed assessments analytics etc are all the tools that helps teachers and admins improve performance of the schools and students. Personalized learning is one of our goal. How can each student receive customized instructions and we are leveraging chatgpt / AI for the same. 
+
+**We**: One Team one Heart is the logo that i have borrowed from my past leader Alberto and I like to inculcate this culture into people that we are all here for one cause. My partnership with support and cloudops very clearly reflect that. Though we are one team, we have our own accountabilities and within those we are ready to help each other. 

@@ -15,16 +15,15 @@ Why does this happen? As products grow horizontally (more features) and vertical
 
 The key to overcoming these challenges lies in simplification. Here are seven strategies to break down your big system into manageable pieces:
 
-1. **Divide and Conquer**: Break down the system both horizontally (technical components) and vertically (customer experiences or workflows).
+1. **Divide and Conquer**: Break down the system both horizontally (technical layers) and vertically (customer experiences, workflows or functional modules).
 2. **Adopt the Spotify Model**: Organize teams into squads focused on vertical partitions, ensuring clear ownership and responsibility.
 3. **Create Chapters for Horizontal Components**: Establish chapters for managing best practices across layers like databases, middleware, and front-end.
-4. **Embrace Microservices**: Utilize the iDesign method to create well-defined microservices, each with a clear purpose and boundary.
-5. **Evolve Vertical Partitions**: Over time, transform vertical partitions into true microservices, enhancing modularity and scalability.
-6. **Enable Independent Deployment**: Refactor each microservice to allow independent deployment by its respective team.
-7. **Curate Dependencies**: Ensure well-defined, minimal dependencies between microservices to maintain independence.
+4. **Implement Service Oriented Architecture and Clear separation of concern**: Utilize the iDesign method to create well-defined business services, each with a clear purpose and boundary.
+5. **Evolve Vertical Partitions**: Over time, transform vertical partitions into true independent services, enhancing modularity and scalability. Each service is managed by one team with minimum cross team dependencies. 
+6. **Enable Independent Deployment**: Refactor each services to allow independent deployment by its respective team.
+7. **Curate Dependencies**: Ensure well-defined, minimal dependencies between services to maintain independence.
 
 ## The Power of Small Pieces
-
 By implementing these strategies, you'll create a system where each component is truly independent and manageable by a single team. This approach unlocks numerous benefits:
 
 - **Faster Innovation**: Teams can deliver smaller, incremental changes without waiting for monolithic releases.
@@ -37,8 +36,6 @@ By implementing these strategies, you'll create a system where each component is
 As you embark on this journey of breaking down your big system, remember that it's not just about technology—it's about empowering your teams and delighting your customers. By creating a more modular, manageable system, you're setting the stage for sustained innovation and growth.
 
 **Ready to take the first step?** Start by identifying one area of your product that could benefit from this approach. Break it down, reorganize your team around it, and watch as the speed of innovation picks up.
-
-[Schedule a Free Consultation](https://example.com/consultation) to discuss how you can implement these strategies in your organization.
 
 Remember, in the world of tech, standing still is moving backward. Keep innovating, keep adapting, and most importantly, keep shipping!
 

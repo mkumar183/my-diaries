@@ -1,7 +1,4 @@
 Anything that has lead you to failures. 
-- Not Shrewd. Too straight forward. 
-	- Relationships with Product. 
-	- Not able to create impression on Top Management 
-- too humble. and i get downed for my work since i focus on doing work than showing it. Not good at Building my self image and selling myself 
-	- I have focused more on how and not on what to achieve.
-- i like doing strategic thinking and setting medium term goals. set habits. i am not great fire fighter nor do i believe in building fires and quenching it. i am bery proactive. i would see things coming months in advance. 
+- I am a humble person and also very focused on solving problems. 
+	- Once i identify a problem i get busy in solving the problem. However, once the problem is solved, I am not selling the solution too much. I show case the success and then move on quickly. I see leaders forget these successes and achievements and I do not get enough credit and visibility for the same. I have very high potential however, i feel this potential does not come so much in limelight while other peers are constantly hammering on their challenges and problems. 
+- My plan to improve upon it is that I will show case the problems and run these problems with multiple people multiple times. Once team solves the problems i will take out time to talk about the solution in multiple forums. I will create venues for the team to talk about these solutions until everyone knows about these solutions.

@@ -1,0 +1,3 @@
+1. Development-Support collaboration and reducing invalid incoming defects by 70% 
+2. Creating an inward tool for collecting all jira tickets, statuses, git and confluence data at one place for all types of metrics and management. Enabled this tool with metrics such as cycle times, completion rates, invalid ticket count and impact on the product. Internal execution.
+3. Component wise division of modules, ownerships, establishing clear roles and responsibilities across. 

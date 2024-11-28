@@ -13,13 +13,142 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Diary Self/Weekly Diary/2024-10-06.md",
+                "file": "01 - Diary Profession/24-09-07.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24-09-07"
+            }
+          },
+          {
+            "id": "b50d352b1424abac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Diary Profession/Oct-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oct-2024"
+            }
+          },
+          {
+            "id": "052541ecae87146d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Diary Profession/Oct-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oct-2024"
+            }
+          },
+          {
+            "id": "48ba6414ab83708d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - writings/building high performance teams/refined-articles-chatgpt/04 - Published - Scaling Agile Teams for larger projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 - Published - Scaling Agile Teams for larger projects"
+            }
+          },
+          {
+            "id": "c1b408383e2b90f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - writings/building high performance teams/raw-articles/Building a High-Performance Engineering Culture, Beyond Skillsets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building a High-Performance Engineering Culture, Beyond Skillsets"
+            }
+          },
+          {
+            "id": "ce1908b764871935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Managing Services Organization - Org Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Managing Services Organization - Org Structure"
+            }
+          },
+          {
+            "id": "63b43c940a7ebe0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memorandum of Understanding (MoU) - Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memorandum of Understanding (MoU) - Draft"
+            }
+          },
+          {
+            "id": "e2f8ba46212ed046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Diary Profession/reinventing-youself/Observe.AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Observe.AI"
+            }
+          },
+          {
+            "id": "2a292b558ed8c0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Diary Profession/reinventing-youself/Engineering Habits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Engineering Habits"
+            }
+          },
+          {
+            "id": "7fb46859f39f1e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - writings/building high performance teams/short linkedin posts/Transformation Leaders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformation Leaders"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -39,7 +168,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +179,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gen-AI",
+                "query": "habit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Diary Self/Weekly Diary/2024-10-06.md",
+                "file": "01 - Diary Profession/reinventing-youself/I-Questions/03 Talk about a time when you handled a conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +228,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03 Talk about a time when you handled a conflict"
             }
           },
           {
@@ -102,10 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Diary Self/Weekly Diary/2024-10-06.md",
+                "file": "01 - Diary Profession/reinventing-youself/I-Questions/03 Talk about a time when you handled a conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03 Talk about a time when you handled a conflict"
             }
           },
           {
@@ -116,7 +255,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +266,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Diary Self/Weekly Diary/2024-10-06.md"
-              }
+                "file": "01 - Diary Profession/reinventing-youself/I-Questions/03 Talk about a time when you handled a conflict.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03 Talk about a time when you handled a conflict"
             }
           }
         ],
@@ -148,53 +291,53 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "27a9b0d38eff7704",
+  "active": "7a6bacbd0262055a",
   "lastOpenFiles": [
-    "01 - Diary Self/resolutions.md",
-    "01 - Diary Self/Weekly Diary/2024-10-06.md",
-    "01 - Diary Self/01 - Focus of 2024.md",
-    "01 - Diary Self/Weekly Diary/2024-07-28.md",
-    "01 - Diary Self/Thoughts/Quotes/Cultivating Faith.md",
-    "01 - Diary Self/Thoughts/Quotes/Communication.md",
-    "01 - Diary Self/Lessons Summary/Structure for Understanding Lesson..md",
-    "01 - Diary Self/Lessons Summary/Prayers.md",
-    "01 - Diary Self/Lessons Summary/Lesson 36 Overcoming Fear of Death.md",
-    "01 - Diary Self/Lessons Summary/Lesson 35, The Phenomena of Dreams and Visions..md",
-    "01 - Diary Self/articles-blogs/Making Each Block of Time Fulfilling.md",
-    "01 - Diary Self/articles-blogs/how to play with perceptions.md",
-    "01 - Diary Profession/Discussions with Chad/19-Sep-2024.md",
-    "01 - Diary Self/articles-blogs",
-    "02 - writings/managing-self/What is Meditation. How to Cultivate Love and Faith in God..md",
-    "02 - writings/building high performance teams/raw-articles/Slack Channels.md",
-    "02 - writings/managing-self/Bringing God's Presence In Each Moment of Your.md",
-    "02 - writings/managing-self/Success of a Country or World.md",
-    "Pasted image 20240926181127.png",
-    "02 - writings/managing-self/peace.md",
-    "02 - writings/managing-self/Overcoming Fear of Death.md",
-    "02 - writings/managing-self/Notes from Satsanga.md",
-    "02 - writings/managing-self/Cultivate Detachment.md",
-    "02 - writings/managing-self/02 - Mastering Your Mind. A Guide to Managing Thoughts for Clarity and Focus.md",
-    "02 - writings/building high performance teams/Topics.md",
-    "02 - writings/building high performance teams/Tips for Writing Technical Articles.md",
-    "02 - writings/building high performance teams/quotes.md",
-    "01 - Diary Profession/2024-05-26.md",
-    "images",
-    "images/Pasted image 20240923143324.png",
-    "01 - Diary Profession/Engineering Leadership Meeting",
-    "02 - writings/building high performance teams/raw-articles/essence-of-leadership.jpg",
+    "02 - writings/building high performance teams/raw-articles/Essence of Leadership in Building High Performing Teams.md",
+    "02 - writings/building high performance teams/raw-articles/Essence of Building High Performing Teams for Creative work such as Software Development.md",
     "02 - writings/building high performance teams/raw-articles/Dev Charter - version 2.pdf",
-    "02 - writings/building high performance teams/raw-articles/SpotifyScaling.pdf",
-    "02 - writings/building high performance teams/raw-articles/SGY PE Charter (v3).pdf",
-    "02 - writings/building high performance teams/SpotifyScaling.pdf",
-    "02 - writings/Tips for Writing Technical Articles.pdf",
-    "01 - Diary Profession/70 Questions.pdf",
-    "99 - archive/Pasted image 20240721000739.png",
-    "99 - archive/Beyond-the-basics-of-scaling-agile-white-paper.pdf",
-    "99 - archive/Pasted image 20240830102631.png",
-    "Pasted image 20240920072452.png",
-    "Pasted image 20240901072719.png",
-    "99 - archive/Pasted image 20240830102540.png",
-    "99 - archive/Pasted image 20240819150837.png",
-    "99 - archive/Pasted image 20240817182746.png"
+    "02 - writings/building high performance teams/raw-articles/Connecting Teams to Customers and reducing walls in between.md",
+    "02 - writings/building high performance teams/raw-articles/Building a High-Performance Engineering Culture, Beyond Skillsets.md",
+    "02 - writings/building high performance teams/raw-articles/06 - Establishing High Performance Engineering Culture.md",
+    "02 - writings/building high performance teams/short linkedin posts/Blameless Safe Retros.md",
+    "02 - writings/Structure of a Technical Article.md",
+    "01 - Diary Profession/reinventing-youself/One-min-pitch.md",
+    "01 - Diary Profession/reinventing-youself/Reflection.md",
+    "01 - Diary Profession/reinventing-youself/Observe.AI.md",
+    "01 - Diary Profession/reinventing-youself/Miscommunication.md",
+    "01 - Diary Profession/reinventing-youself/Key Leadership Traits and Examples.md",
+    "01 - Diary Profession/reinventing-youself/Engineering Habits.md",
+    "01 - Diary Profession/reinventing-youself/Weakness.md",
+    "02 - writings/building high performance teams/short linkedin posts/scale breaks culture (not everything).md",
+    "02 - writings/building high performance teams/quotes.md",
+    "01 - Diary Profession/reinventing-youself/Positions/hownow/Parmesh.md",
+    "01 - Diary Profession/reinventing-youself/Positions/08 Hevo Data - Pramod Shetty - Did not start",
+    "01 - Diary Profession/reinventing-youself/Positions/05 BMS - 1 round - not fit",
+    "01 - Diary Profession/reinventing-youself/Positions/04 Light and Wonder - 3 Rounds - Closed",
+    "01 - Diary Profession/reinventing-youself/Positions/07 Vrize - 3 rounds - in progress/VRIZE Success Stories.md",
+    "01 - Diary Profession/reinventing-youself/Positions/07 Vrize - 3 rounds - in progress/Vrize - About Yourself.md",
+    "01 - Diary Profession/reinventing-youself/Positions/07 Vrize - 3 rounds - in progress/Questions to Ask.md",
+    "01 - Diary Profession/reinventing-youself/Positions/06 observe.ai - 2 rounds - not started/Status.md",
+    "01 - Diary Profession/reinventing-youself/Positions/DotDash/Arpit.md",
+    "01 - Diary Profession/reinventing-youself/Positions/06 observe.ai - 2 rounds - not started",
+    "01 - Diary Profession/reinventing-youself/Positions/DotDash",
+    "01 - Diary Profession/24-09-07.md",
+    "01 - Diary Profession/reinventing-youself/Positions/hownow",
+    "02 - writings/building high performance teams/short linkedin posts/Why RCAs are hard yet most rewarding.md",
+    "02 - writings/building high performance teams/short linkedin posts/Empathy in Leadership - Done 2024-11-24.md",
+    "02 - writings/building high performance teams/short linkedin posts/Emotional Intelligence.md",
+    "01 - Diary Profession/reinventing-youself/Positions/07 Vrize - 3 rounds - in progress",
+    "01 - Diary Profession/reinventing-youself/I-Q-Boyden",
+    "01 - Diary Profession/1-1/skip level quarterly",
+    "Pasted image 20241117075737.png",
+    "Pasted image 20241117075718.png",
+    "Astrology/Pasted image 20241102095142.png",
+    "Astrology/Pasted image 20241102095020.png",
+    "Astrology/Pasted image 20241102094852.png",
+    "Pasted image 20240926181127.png",
+    "Pasted image 20241028181609.png",
+    "Pasted image 20241020074122.png",
+    "images/Pasted image 20240923143324.png",
+    "02 - writings/building high performance teams/raw-articles/essence-of-leadership.jpg"
   ]
 }

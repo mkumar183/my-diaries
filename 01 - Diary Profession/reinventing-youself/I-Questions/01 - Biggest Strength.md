@@ -1,3 +1,0 @@
-- Bring together multiple skills and build high performing teams. 
-- Scale high performing teams to 8-10 teams understanding architecture, business and process. 
-- 

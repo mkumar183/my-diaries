@@ -1,0 +1,21 @@
+Tell me about yourself. 
+- Born in Rewari in a family of 4 brothers and 2 sisters. 
+	- With father running a paan shop. 
+	- Got selected in IIT Kharagpur with AIR 1112 without much knowledge of my family or any coaching. 
+	- Got selected for most engineering college REC roorkey rank 8. 
+- Started IT career with Infosys
+	- Worked on a Retail client Nordstorm. Solved several issues and did enhancements. 
+- Oracle: 
+	- Worked deep into supply chain and financial domain. 
+	- AP, AR, GL, OM, Inventory, Mfg, DR, Service Returns etc. 
+	- Worked Deep into SQL and Got recognized for Performance issues resolutions. 
+	- Built Supply Chain intelligence Group in India. 
+- US
+	- Worked in US for about 4 years. Got hired back in Oracle. 
+- Teksystems 
+	- I worked with TekSystems where i did manufacturing intelligence implementations for Schlumberger and GE. I grew these accounts by 40-50% each. At Zenoti my focus was building Analytics and Data Platform and expanding customers using data migration platforms and US market Massage Green and Massage Heights. 
+- SumTotal and Zenoti 
+	- 
+- At PowerSchool my role has been that of being a key catalyst to establish R&D center. We grew from over 50 people to 400+ people. Here i have been leading over 100+ people engineering team with direct and full ownership of 50+ engineering team. Dealing with Analytics and Data Platform. I have 3 Directors reporting into me each with team size of about 25-30 resources. The product i handle is of 50+ million and it has grown by almost 100%. 
+- My experience is at times very technical going into technical depth and then establishing structure, processes and culture in these teams. 
+- I lived in USA for over 4 years and throughout my career i have worked with high variety of individuals globally. 
