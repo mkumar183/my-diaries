@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Diary Profession/reinventing-youself/Engineering Habits.md",
+                "file": "02 - writings/short linkedin posts/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engineering Habits"
+              "title": "Untitled"
             }
           },
           {
@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "Transformation Leaders"
             }
+          },
+          {
+            "id": "06c1741fee546132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Releases 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Releases 2024"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -204,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 314.5
   },
   "right": {
     "id": "0ac0319257897b6c",
@@ -293,51 +307,51 @@
   },
   "active": "7a6bacbd0262055a",
   "lastOpenFiles": [
-    "02 - writings/building high performance teams/raw-articles/Essence of Leadership in Building High Performing Teams.md",
-    "02 - writings/building high performance teams/raw-articles/Essence of Building High Performing Teams for Creative work such as Software Development.md",
+    "02 - writings/short linkedin posts/Untitled.md",
+    "01 - Diary Self/Weekly Diary/Self-Reflection Template.md",
+    "01 - Diary Self/Weekly Diary/2024-12-15.md",
+    "01 - Diary Self/Weekly Diary/2024-07-28.md",
+    "01 - Diary Self/Weekly Diary/2024-10-06.md",
+    "01 - Diary Self/Weekly Diary/2024-08-22.md",
+    "01 - Diary Self/Weekly Diary/2024-08-19.md",
+    "02 - writings/poems/Surrender.md",
+    "02 - writings/poems/Paisa.md",
+    "01 - Diary Profession/costs.md",
+    "02 - writings/poems",
+    "Pasted image 20241213143713.png",
+    "Pasted image 20241213140529.png",
+    "Pasted image 20241213140245.png",
+    "01 - Diary Profession/02-strategic-goals-priorities.md",
+    "02 - writings/short linkedin posts/Passion in Software Engineering.md",
+    "02 - writings/short linkedin posts/scale breaks culture (not everything).md",
+    "02 - writings/short linkedin posts/published/The True Purpose of Software, Building with Empathy.md",
+    "02 - writings/short linkedin posts/Emotional Intelligence.md",
+    "02 - writings/short linkedin posts/Blameless Safe Retros.md",
+    "02 - writings/short linkedin posts/Authors to Follow.md",
+    "02 - writings/short linkedin posts/published/Culture - Done.md",
+    "02 - writings/short linkedin posts/published/03 Why 'If It’s Not Broken, Don’t Fix It' Isn’t Always the Best Approach.md",
+    "02 - writings/short linkedin posts/published",
+    "02 - writings/short linkedin posts/04 TDD Approach Ignored enough.md",
+    "02 - writings/short linkedin posts/02 Root Cause Analysis - 5 Whys.md",
+    "02 - writings/short linkedin posts/01 Traits of High Performance Team.md",
+    "02 - writings/short linkedin posts/01 - Key Principles and Practices of XP.md",
+    "02 - writings/managing-self/Words of Yogananda most dear to me...md",
+    "02 - writings/managing-self/peace.md",
+    "01 - Diary Profession/TDD Training/TDD.md",
+    "Pasted image 20241129152712.png",
+    "01 - Diary Profession/TDD Training",
     "02 - writings/building high performance teams/raw-articles/Dev Charter - version 2.pdf",
-    "02 - writings/building high performance teams/raw-articles/Connecting Teams to Customers and reducing walls in between.md",
-    "02 - writings/building high performance teams/raw-articles/Building a High-Performance Engineering Culture, Beyond Skillsets.md",
-    "02 - writings/building high performance teams/raw-articles/06 - Establishing High Performance Engineering Culture.md",
-    "02 - writings/building high performance teams/short linkedin posts/Blameless Safe Retros.md",
-    "02 - writings/Structure of a Technical Article.md",
-    "01 - Diary Profession/reinventing-youself/One-min-pitch.md",
-    "01 - Diary Profession/reinventing-youself/Reflection.md",
-    "01 - Diary Profession/reinventing-youself/Observe.AI.md",
-    "01 - Diary Profession/reinventing-youself/Miscommunication.md",
-    "01 - Diary Profession/reinventing-youself/Key Leadership Traits and Examples.md",
-    "01 - Diary Profession/reinventing-youself/Engineering Habits.md",
-    "01 - Diary Profession/reinventing-youself/Weakness.md",
-    "02 - writings/building high performance teams/short linkedin posts/scale breaks culture (not everything).md",
-    "02 - writings/building high performance teams/quotes.md",
-    "01 - Diary Profession/reinventing-youself/Positions/hownow/Parmesh.md",
     "01 - Diary Profession/reinventing-youself/Positions/08 Hevo Data - Pramod Shetty - Did not start",
     "01 - Diary Profession/reinventing-youself/Positions/05 BMS - 1 round - not fit",
     "01 - Diary Profession/reinventing-youself/Positions/04 Light and Wonder - 3 Rounds - Closed",
-    "01 - Diary Profession/reinventing-youself/Positions/07 Vrize - 3 rounds - in progress/VRIZE Success Stories.md",
-    "01 - Diary Profession/reinventing-youself/Positions/07 Vrize - 3 rounds - in progress/Vrize - About Yourself.md",
-    "01 - Diary Profession/reinventing-youself/Positions/07 Vrize - 3 rounds - in progress/Questions to Ask.md",
-    "01 - Diary Profession/reinventing-youself/Positions/06 observe.ai - 2 rounds - not started/Status.md",
-    "01 - Diary Profession/reinventing-youself/Positions/DotDash/Arpit.md",
     "01 - Diary Profession/reinventing-youself/Positions/06 observe.ai - 2 rounds - not started",
     "01 - Diary Profession/reinventing-youself/Positions/DotDash",
-    "01 - Diary Profession/24-09-07.md",
     "01 - Diary Profession/reinventing-youself/Positions/hownow",
-    "02 - writings/building high performance teams/short linkedin posts/Why RCAs are hard yet most rewarding.md",
-    "02 - writings/building high performance teams/short linkedin posts/Empathy in Leadership - Done 2024-11-24.md",
-    "02 - writings/building high performance teams/short linkedin posts/Emotional Intelligence.md",
-    "01 - Diary Profession/reinventing-youself/Positions/07 Vrize - 3 rounds - in progress",
-    "01 - Diary Profession/reinventing-youself/I-Q-Boyden",
-    "01 - Diary Profession/1-1/skip level quarterly",
     "Pasted image 20241117075737.png",
     "Pasted image 20241117075718.png",
     "Astrology/Pasted image 20241102095142.png",
     "Astrology/Pasted image 20241102095020.png",
     "Astrology/Pasted image 20241102094852.png",
-    "Pasted image 20240926181127.png",
-    "Pasted image 20241028181609.png",
-    "Pasted image 20241020074122.png",
-    "images/Pasted image 20240923143324.png",
-    "02 - writings/building high performance teams/raw-articles/essence-of-leadership.jpg"
+    "Pasted image 20240926181127.png"
   ]
 }

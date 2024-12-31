@@ -1,0 +1,1 @@
+Engineering culture is not about how teams celebrate christmas. Its about how they celebrate success, handle failures and get things done. 

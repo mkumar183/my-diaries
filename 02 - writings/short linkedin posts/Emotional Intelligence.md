@@ -1,4 +1,3 @@
-
 Whenever you feel something strong, pause and reflect what is causing this emotion. 
 
 Now cultivate intelligence to read emotions of others when you are interacting with them. 
