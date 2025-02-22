@@ -16,16 +16,17 @@ Teams and Situations:
 Certainly! Here are 70 questions extracted from the text provided:
 
 1. Can you tell me about yourself?
-somebody who brings various skills and experiences in technology, peopel and team management and process optimizations bringing business results and outcomes in a very focused manner. my focus is to bring consistent and sustained results and establish best engg habits in teams that make it autonomous and keep giving excellent business outcomes. 
+Trusted Leader who has built High Performing Teams throughout his Career. With career divided in 3 key portions. Initial 12 years worked in Oracle both in India and US for 5 years. Started India center from scratch and witnessed growth of the center and i myself grew in role. Similarly, at PowerSchool started center when it was very small. Here i established teams for 5 different companies and helped these companies merge culturally with PS. 
 
 2. Why should we hire you?
-Because I have built excellent legacy and i can do that again by building teams that will generate highest value for your business. 
+My skills and your requirements have an exact match. I can be of very high value to you. I come with very high Integrity, Intent, capabilities and proven track record of establishing 100+ engineering teams with a methodology for establishing high performance teams with right kind of culture. Your values match with that mine and i see a clear mindset match. 
 
 3. What’s your greatest strength ?
-Learnting, Focused on results and humble. My greatest strength is to be able to bring mix of skills and experience together such as my technology passion, ability to bring teams together, ability to understand human psychology, my ability to be hands on and convert business problem to technologies, talk to various stakeholders and convert that into business solutions and using all these skills build high performing teams that are very long term asset for a company. 
+Learning, Humility, Focused on results and humble. 
+My greatest strength is to be able to bring mix of skills and experience together such as my technology passion, ability to bring teams together, ability to understand human psychology, my ability to be hands on and convert business problem to technologies, talk to various stakeholders and convert that into business solutions and using all these skills build high performing teams that are very long term asset for a company. 
 
 4. What’s your greatest weakness ?
-marketing myself to some of the leaders who operate based on perception than data. my focus is on solutions and not making problems big. some people are very good at that but i am not.  
+In this role, my less familiarity with Gaming especially design and psychology of gamers can be little handicap for me, however, i am sure with clear focus i will overcome it very soon. 
 
 5. Can you describe a challenging situation you faced at work and how you handled it?
 Several:
@@ -46,7 +47,7 @@ On personal front going deeper into meditation. Serving more to society.
 7. Why did you leave your last job?
 Zenoti: Zenoti was purely sales driven. They were not passionate about technology nor about the product. Just running behind numbers and making unrealistic promises to customers for selling fast. 
 
-PowerSchool: Its no more on growth path. Growth is sluggish. Change of hands and management is imminent. 
+PowerSchool: Its no more on growth path. Growth is sluggish. Change of hands and management has eroded and diluted the culture. Focus is on cost cutting than expansion and growth. 
 
 8. Tell me about a time you failed and what you learned from it.
 - Early in my career i almost broke a robot. It was very expensive then. After this incident I became over careful about testing. Esp. divide by zero.
@@ -63,22 +64,16 @@ Today i am not afraid of making mistakes however, i make many smaller mistakes a
 Example of building logi currently. GA.
 
 10. Describe a situation where you had to work with a difficult coworker.
-- Product partner: - Centralized approach vs Decentralized Approach of management. 
-	- My approach Authoritative, traditional style. Experience in managing smaller projects. 
-	- Centralized approach while mine is decentralized 
-	- Averse to change 
+- Product partner: - Very good, competitive, good integrity and intent and capable. His Tone of talking was such that it will create highly unsafe environment for people to speak up. That's something that would stifle ideas and innovation. Even we were scared of talking to him. And that reflected in his product owners in India. 
+
 How did I solve: 
-- Initially faced huge resistance. But also support from my immediate manager. 
-- Established trust with small changes 
-- Started having 1-1s 
-- I created an Iron Triangle forum 
-- Prepare for his question in advance "whats not working well ?".
-- Slowed down the changes but i did it 
+- Worked with India Product owners and established trust with them. Made them open up and teams open up to each other and let the innovation going. 
+- I had to be very careful before making any changes. At times, somebody will escalate things to him and it will just blow out of proportions. 
 
 11. What’s your leadership style?
 How can i drive best business customer focused results in a sustained way by keeping my teams excited, motivated and happy. 
 
-more pursuasive. transparent. data driven. 
+More pursuasive. transparent. data driven, coaching/mentoring. Transformational. 
 
 - Transformational. Agile Principles. Self-Organizing , Self-Managing Autonomous Teams. 
 - High Empowerment and Trust. 
@@ -97,16 +92,14 @@ more pursuasive. transparent. data driven.
 - I do small hands on experiments with new technologies. Hello world programs are great way for me to learn. 
 
 13. What do you know about our company?
-- Its in insurance space
-- Very stable. 
-- It belives in longivity of people 
-- Quality focused and passionate people 
+- LNW: Focus on Culture 49:51. SciPlay, Porting Slots to Mobile. 
+- Values: Dare to be Bold, Celebrate Perspective, Never Settle, Uphold Integrity, Win as a Team. 
+- SciPlay: beYou,   PlayTogether,              LevelUp,         embrace culture,  getResults, justWin 
+- Focus and Simplicity of Business Strategy. 15% CAGR. By holding i am losing so much on increasing stock price. 
 
-14. Why do you want to work here?
-- It seems i will do more strategic work here 
-- Quality of work i will do will be better 
-- I will add value to the organization by expansion India center by high quality teams and individuals which is my passion 
-- Opportunity to build culture, collaborate with high number of stakeholders, learn and grow. 
+
+1. Why do you want to work here?
+- Data Driven, Transparent, I will Enjoy working in such environment where there is fun and aggression both needed.  
 
 15. Can you provide an example of a time you had to adapt to a change at work?
 - Changing teams from skill based teams to cross-functional teams 
@@ -118,7 +111,7 @@ more pursuasive. transparent. data driven.
 - Leap in GenaI and automated Jira workflows. 
 
 16. What motivates you in your career?
-service to others. Adding value to people's lives, Generating wealth for Investors and providing better services to customers. Impacting all three major stakeholders plus vendors if involved. 
+	My mission in life is to make work enjoyble for my teams. Provide them growth path that is fair and transparent and add huge value to their lives. Be a Servant Leader. 
 
 17. Describe a project where you had to meet tight deadlines. How did you manage it?
 - Plan backward 
@@ -143,6 +136,7 @@ Not very Easy. but more and more i think these are for my own improvements. I ne
 
 
 21. How do you handle ambiguity and uncertainty in a project?
+- spikes
 - Agile principles are the answers. Build small, put in front of customers, get feedback, evolve and improve 
 - Ask more questions. Take out more times. 
 - Have mock ups or some kind of hand sketches that evoke more questions. 

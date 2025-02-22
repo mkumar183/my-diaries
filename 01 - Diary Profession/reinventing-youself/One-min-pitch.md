@@ -1,10 +1,9 @@
 **New Simpler Pitch:** 
+- Trusted Leader: 
 - Focus on your achievements, successes and few failures (remember at this stage what your teams have achieved is your success.)
 - Explain your journey as skills you acquired, successes and failures you had and how you have grown to your current state where you manage a team of 50+ engineers and lead 30-40 personal group to drive change and success for the organization. 
 - Highlight your curiosity to learn and be very business outcome focus as key strength while your inability to market your solutions and yourself as your weakness. certain amount of shyness and not talking about yourself plus not making problems big rather getting into solving is my nature. plus i believe in continuous improvement which many type of leaders do not appreciate. 
-
-- Be humble and show how you have moved from personal success to team and teams success.
-
+- Be humble and show how you have moved from personal success to team and teams succe
 - **A sequence in your professional achievements** as a journey (e.g. as an individual contributor to an engineering manager leading a small team to leading 8-10 teams. Also, technology wise working on Oracle, SQL Based, Backend, ETL engines to Hybrid Applications including Web Applications and Cloud. Transition to agile at Scale and medium scale applications and cloud technologies with DevOps as culture, and other modern techniques such as CICD, Feature Flags, Refactoring large scale applications in smaller chunks, and focus on Observability. Also advent into Architecture understanding microservices as a pattern, AWS Serverless technologies, Dockers and Kubernetes and then confidence in driving teams for building large scale systems. 
 
 - **Current State** I stand more as a generalist than a specialist familiar with overall systems and architectures and able to understand any technology in terms of its role and how it can be benefitial. I also have a good understanding of roles and responsiblities and team dynamics which help me bring right people together to debate, discuss and make sound decisions. My expertise if i want to highlight would be that in by bringing my different experiences together i am very business outcome focused and drive results in a consistent ans sustained manner by keeping my teams excited and motivated via a fair and integral reward and recognition system being very data driven and keeping prejudices out of the system. 
